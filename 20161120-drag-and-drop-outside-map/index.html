@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>Leaflet - Drag a marker outside the map</title>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+	</style>
+ 	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+ 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+ 	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+	
+	<!-- Leaflet -->
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+	<script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+
+
+	<style>
+		#map {
+			width: 600px;
+			height: 400px;
+		}
+		
+		body, table {
+	    	font-family:"Helvetica Neue",Helvetica,verdana,corbel;
+    		font-size:13px;
+ 		}
+
+		#liste li {
+ 		   	margin:4px;
+ 		   	width:75px;
+ 		   	height: 75px;
+		    border: 1px solid #000;
+ 		   	border-radius:2px;
+ 		   	text-align:center;
+			padding:2px;
+  		  	box-shadow: 1px 1px 12px #555;
+  		  	background-color:white;
+	 		list-style-type:none;
+		}
+	</style>
+
+	
+</head>
+<body>
+
+<div>
+<div id='map'></div>
+<img style="position: absolute; left: 300px; top: 200px; z-index: 1000" id="fakeMarker" src="https://unpkg.com/leaflet@1.0.1/dist/images/marker-icon.png"></img>
+</div>
+
+	<ul id="liste">
+	  <li>A</li>
+	  <li>B</li>
+	  <li>C</li>
+	  <li>D</li>
+	</ul>
+
+	<div id="log"></div>
+
+<script>
+  $( function() {
+    $("#fakeMarker").draggable();
+    
+    $( "#liste li" ).droppable({
+      accept: "#fakeMarker",
+      drop: function( event, ui ) {
+          $( "#log" ).html("dropped on " + $(this).html());  
+      }
+    });
+  } );
+  </script>	
+<script>
+	map = L.map('map').setView([46.566414, 2.4609375], 5);
+
+	// create the tile layer with correct attribution
+	L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    	attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+	}).addTo(map);
+</script>
+
+
+
+</body>
+</html>
