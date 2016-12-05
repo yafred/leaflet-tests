@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>Quick Start - Leaflet</title>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+	<script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+
+	<link rel="stylesheet" href="style.css" />
+
+	
+</head>
+<body>
+
+
+<div style="width: 600px; height: 400px;">
+<div id="mapid" style="width: 600px; height: 400px;"></div>
+<div id="center"></div>
+</div>
+
+<div id="events">
+</div>
+
+<script>
+
+	var map = L.map('mapid').setView([48.858475, 2.338285], 13);
+	var markerIcon = L.divIcon({ className : 'circle', iconSize : [ 12, 12 ]});
+
+	L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpandmbXliNDBjZWd2M2x6bDk3c2ZtOTkifQ._QA7i5Mpkd_m30IGElHziw', {
+		maxZoom: 18,
+		attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+			'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+			'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+		id: 'mapbox.streets'
+	}).addTo(map);
+
+	var markers = [];
+	markers[0] = L.marker([48.852961, 2.349891], { icon: markerIcon }).addTo(map).bindPopup('Notre-Dame de Paris');
+	markers[1] = L.marker([48.863590, 2.327183], { icon: markerIcon }).addTo(map).bindPopup('Les Tuileries');
+	markers[2] = L.marker([48.860894, 2.325387], { icon: markerIcon }).addTo(map).bindPopup('Gare d\'Orsay');
+	markers[3] = L.marker([48.870437, 2.316743], { icon: markerIcon }).addTo(map).bindPopup('Palais de l\'Elysée');
+	
+	
+	// Map event handlers
+	function mapMoveEnd(e) {
+		document.getElementById('events').innerHTML += 'movend ' + map.getCenter().lat.toFixed(6) + ', ' + map.getCenter().lng.toFixed(6) + '<br/>'; 
+		
+		// Sort it
+		var markersToCenter = markers.sort(function (a, b) {
+			aDistanceToCenter = map.distance(map.getCenter(), a.getLatLng());
+			bDistanceToCenter = map.distance(map.getCenter(), b.getLatLng());
+			if(aDistanceToCenter > bDistanceToCenter) return 1;
+			if(aDistanceToCenter < bDistanceToCenter) return -1;
+			return 0;
+		});
+		
+		// is the nearest point to center near enough to popup a tooltip
+		var centerDiameter = 30;
+		var markerDiameter = 12;
+		var centerPoint = map.latLngToContainerPoint(map.getCenter());
+		var markerPoint = map.latLngToContainerPoint(markersToCenter[0].getLatLng());
+		var pixelsFromMarkerToCenter = Math.pow(Math.pow(centerPoint.y - markerPoint.y ,2) + Math.pow(centerPoint.x - markerPoint.x ,2), 1/2); // Pythagore
+		
+		if(pixelsFromMarkerToCenter < (centerDiameter/2 - markerDiameter/2)) {
+			markersToCenter[0].openPopup();
+
+			map.off('moveend', mapMoveEnd);
+			map.panTo(markersToCenter[0].getLatLng()); 
+			map.on('moveend', mapMoveEnd);
+		}
+
+	}
+	
+	map.on('moveend', mapMoveEnd);
+	
+</script>
+
+
+
+</body>
+</html>

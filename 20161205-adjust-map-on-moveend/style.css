@@ -1,0 +1,23 @@
+	#center {
+		height: 30px;
+		width: 30px;
+		border-radius: 50%;
+		opacity: 0.4;
+		background-color: blue;
+		z-index: 650;
+		position: relative;
+		top: -215px; 
+		left: 285px;
+	}
+	
+	div.circle {
+	    background-color: #ff7800;
+    	border-color: black;
+    	/*border-radius*/
+-webkit-border-radius:50%;
+   -moz-border-radius:50%;
+        border-radius:50%;
+    	border-style: solid;
+    	border-width: 1px;
+    	opacity: 0.9;
+	}
