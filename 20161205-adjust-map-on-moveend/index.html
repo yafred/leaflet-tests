@@ -23,7 +23,8 @@
 <div id="mapid" style="width: 600px; height: 400px;"></div>
 <div id="center"></div>
 </div>
-
+<p>First move the map without having a marker in the blue circle: this triggers 1 moveend event.</p>
+<p>Then move the map so that the blue circle contains a marker: this triggers 2 moveend events (although a map.off() was called before panning the map).</p>
 <div id="events">
 </div>
 
