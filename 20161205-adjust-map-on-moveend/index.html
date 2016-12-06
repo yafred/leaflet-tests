@@ -10,7 +10,7 @@
 	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
 
 	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
-	<script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+	<script src="leaflet-src.js"></script>
 
 	<link rel="stylesheet" href="style.css" />
 
@@ -72,8 +72,9 @@
 			markersToCenter[0].openPopup();
 
 			map.off('moveend', mapMoveEnd);
-			map.panTo(markersToCenter[0].getLatLng()); 
-			map.on('moveend', mapMoveEnd);
+			map.panTo(markersToCenter[0].getLatLng(), { duration: .25 });
+			setTimeout(function(){ map.on('moveend', mapMoveEnd); }, 300);
+			
 		}
 
 	}
