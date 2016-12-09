@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>jQuery UI Dialog - Animation</title>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+
+  <script>
+  $( function() {
+    $( "#dialog" ).dialog({
+      width: 500,    
+      autoOpen: false,
+      show: {
+        effect: "blind",
+        duration: 1000
+      },
+      hide: {
+        effect: "explode",
+        duration: 1000
+      }
+    });
+ 
+    $( "#opener" ).on( "click", function() {
+      $( "#dialog" ).dialog( "open" );
+    });
+  } );
+  </script>
+</head>
+<body>
+ 
+<div id="dialog" title="Basic dialog" >
+    <div id="map1" style="height:400px; width:400px; margin-bottom: 20px; margin: auto"></div>
+    <script type="text/javascript">
+        var map1 = L.map('map1').setView([48.850258, 2.351074], 11);
+    	// create the tile layer with correct attribution
+    	L.tileLayer('https://a.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    	}).addTo(map1);
+    	
+    	map1.on('click',function(e) {
+            L.popup().setContent(e.latlng.lat.toFixed(6) + ', ' + e.latlng.lng.toFixed(6))
+                     .setLatLng(e.latlng)
+                     .openOn(map1);
+        });
+    </script>
+  <p>This is an animated dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the 'x' icon.</p>
+  
+</div>
+ 
+<button id="opener">Open Dialog</button>
+ 
+ 
+</body>
+</html>
