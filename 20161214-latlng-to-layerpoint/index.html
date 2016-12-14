@@ -26,7 +26,7 @@
     	}).addTo(map1);
     	
     	map1.on('click',function(e) {
-    		document.getElementById("result").innerHTML += "clicked on " + map1.latLngToLayerPoint(e.latlng) + "<br/>";
+     		document.getElementById("result").innerHTML += "clicked on layer point " + map1.latLngToLayerPoint(e.latlng) + ", container point " +  map1.latLngToContainerPoint(e.latlng)   + "<br/>";
         });
  
  
