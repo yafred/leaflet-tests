@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	
+	<title>Leaflet tests</title>
+	
+	<script src="http://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+	
+</head>
+<body>
+
+
+    <div id="map1" style="height:400px; width:600px; margin-bottom: 20px;"></div>
+    <p>Click on markers ... </p>
+    <p id="result"></p>
+    <script type="text/javascript">
+        var map1 = L.map('map1').setView([48.850258, 2.351074], 11);
+    	// create the tile layer with correct attribution
+    	L.tileLayer('https://a.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    	}).addTo(map1);
+    	
+    	L.marker([48.85, 2.35]).addTo(map1).bindPopup('L.Marker at 48.85, 2.35');
+    	
+    	L.circleMarker([48.83, 2.32], { radius: 10 , color: "#0000ff" }).addTo(map1).bindPopup('L.CircleMarker at 48.83, 2.32');
+    	
+    	
+    	map1.on('click',function(e) {
+     		document.getElementById("result").innerHTML += "clicked at " + e.latlng + "<br/>";
+        });
+ 
+    	map1.on('popupopen',function(e) {
+     		document.getElementById("result").innerHTML += "Open popup at " + e.popup.getLatLng() + "<br/>";
+        });
+ 
+ 
+    </script>
+
+    
+
+
+	<!-- analytics -->
+    <script>
+if(window.location.hostname != "localhost") {
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-21317761-7', 'auto');
+ga('send', 'pageview');
+}
+    </script>
+</body>
