@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	
+	<title>Leaflet tests</title>
+	
+	<script src="http://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+	
+</head>
+<body>
+
+
+    <div id="map" style="height:500px; width:600px; margin-bottom: 20px;"></div>
+    <script type="text/javascript">
+    
+    var map = L.map('map').setView([48.850258, 2.351074], 12);
+	// create the tile layer with correct attribution
+	L.tileLayer('https://a.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+	}).addTo(map);
+
+	
+    var newsrooms = [
+       { ID: '1', 'lat': '48.881872', 'long': '2.306357'},
+       { ID: '2', 'lat': '48.850392', 'long': '2.379594'}       
+    ];
+    
+    var articles = [
+       { ID: '1', 'lat': '48.871849', 'long': '2.350755'},
+       { ID: '2', 'lat': '48.863238', 'long': '2.361374'},       
+       { ID: '1', 'lat': '48.851248', 'long': '2.371474'},
+       { ID: '2', 'lat': '48.896258', 'long': '2.358914'},       
+       { ID: '1', 'lat': '48.872318', 'long': '2.370274'},
+       { ID: '2', 'lat': '48.848278', 'long': '2.367874'},       
+       { ID: '1', 'lat': '48.859288', 'long': '2.349874'},
+       { ID: '2', 'lat': '48.879898', 'long': '2.391974'}     
+    ];
+    
+    
+    var selectedNewsroom = 0;
+    
+    var newsroomsById = {};
+
+    var newsroomMarkers = [];
+
+    for(i=0; i<newsrooms.length; i++) {
+        newsroomsById[newsrooms[i].ID] = newsrooms[i];
+        
+        var room_marker = L.circleMarker([newsrooms[i].lat, newsrooms[i].long], {
+            radius: 20,
+            color: '#000',
+            opacity: .4,
+            fillOpacity: .4,
+          }).addTo(map);
+
+       //room_marker.bindPopup("<strong style='color: #84b819'>Newsroom </strong>" + newsrooms[i].ID + "<br>");
+        
+        room_marker.ID = newsrooms[i].ID;  // associate marker with newsroom
+        
+        room_marker.on('click', function(e) {
+        	console.log('clicked on ' + e.target.ID);
+        	changeSelection(e.target.ID);
+        });
+        
+        newsroomMarkers.push(room_marker);  // keep marker reference for later
+    }
+    
+    
+    var articleMarkers = [];
+    
+    for(i=0; i<articles.length; i++) {
+        // retrieve newsroom
+        var newsroom = newsroomsById[articles[i].ID];
+        // draw your polyline
+        var latlngs = [
+          [articles[i].lat, articles[i].long],
+          [newsroom.lat, newsroom.long]
+        ];
+
+        var polyline = L.polyline(latlngs, {
+          color: '#000',
+          weight: 1,
+          opacity: .4,
+          smoothFactor: 1,
+        }).addTo(map);
+
+        var art_marker = L.circleMarker([articles[i].lat, articles[i].long], {
+              radius: 2,
+              color: '#000',
+              fillColor: '#000',
+              opacity: .4,
+              fillOpacity: .4,
+            }).addTo(map);
+        
+        art_marker.connection = polyline; // associate polyline with marker
+        art_marker.newsroomID = newsroom.ID; 
+        
+        articleMarkers.push(art_marker); // keep marker reference for later
+    }
+ 
+    
+    
+    function changeSelection(newsroomID) {
+    	console.log('changeSelection ' + newsroomID);
+    	// deselect everything
+   	    for(i=0; i<articleMarkers.length; i++) {
+	    	articleMarkers[i].setStyle({ opacity: .4, fillOpacity: .4 });
+	   		articleMarkers[i].connection.setStyle({ opacity: .4 });	
+   	    }
+   	    for(i=0; i<newsroomMarkers.length; i++) {
+   	    	newsroomMarkers[i].setStyle({ opacity: .4, fillOpacity: .4 }); 	
+   	    }
+
+ 		if(selectedNewsroom == 0 || selectedNewsroom != newsroomID) {
+ 	    	console.log('changeStyle ' + newsroomID);
+			selectedNewsroom = newsroomID;
+ 			
+ 	   	    for(i=0; i<articleMarkers.length; i++) {
+ 	   	    	console.log(articleMarkers[i].newsroomID);
+ 	   	    	if(articleMarkers[i].newsroomID == newsroomID) {
+ 	    	    	console.log('change article Style ' + newsroomID);
+ 	   	    		articleMarkers[i].setStyle({ opacity: 1, fillOpacity: 1 });
+ 	   	    		articleMarkers[i].connection.setStyle({ opacity: 1 });
+ 	   	    	}
+ 	   	    }
+ 	   	    for(i=0; i<newsroomMarkers.length; i++) {
+ 	   	    	if(newsroomMarkers[i].ID == newsroomID) {
+ 	    	    	console.log('change newsroom Style ' + newsroomID);
+ 	   	    		newsroomMarkers[i].setStyle({ opacity: 1, fillOpacity: 1 }); 	   	    		
+ 	   	    	}
+ 	   	    } 			
+ 		}
+    }
+ 
+    </script>
+
+    
+
+
+	<!-- analytics -->
+    <script>
+if(window.location.hostname != "localhost") {
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-21317761-7', 'auto');
+ga('send', 'pageview');
+}
+    </script>
+</body>
