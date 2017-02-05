@@ -105,7 +105,6 @@
     
     
     function changeSelection(newsroomID) {
-    	console.log('changeSelection ' + newsroomID);
     	// deselect everything
    	    for(i=0; i<articleMarkers.length; i++) {
 	    	articleMarkers[i].setStyle({ opacity: .4, fillOpacity: .4 });
@@ -116,23 +115,22 @@
    	    }
 
  		if(selectedNewsroom == 0 || selectedNewsroom != newsroomID) {
- 	    	console.log('changeStyle ' + newsroomID);
-			selectedNewsroom = newsroomID;
+ 			selectedNewsroom = newsroomID;
  			
  	   	    for(i=0; i<articleMarkers.length; i++) {
- 	   	    	console.log(articleMarkers[i].newsroomID);
  	   	    	if(articleMarkers[i].newsroomID == newsroomID) {
- 	    	    	console.log('change article Style ' + newsroomID);
  	   	    		articleMarkers[i].setStyle({ opacity: 1, fillOpacity: 1 });
  	   	    		articleMarkers[i].connection.setStyle({ opacity: 1 });
  	   	    	}
  	   	    }
  	   	    for(i=0; i<newsroomMarkers.length; i++) {
  	   	    	if(newsroomMarkers[i].ID == newsroomID) {
- 	    	    	console.log('change newsroom Style ' + newsroomID);
  	   	    		newsroomMarkers[i].setStyle({ opacity: 1, fillOpacity: 1 }); 	   	    		
  	   	    	}
  	   	    } 			
+ 		}
+ 		else {
+ 			selectedNewsroom = 0;
  		}
     }
  
