@@ -10,15 +10,17 @@
 	<script src="http://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
 	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
 	
+	<script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js'></script>
+	<link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css' rel='stylesheet' />
+	
 </head>
 <body>
 
 
     <div id="map1" style="height:400px; width:600px; margin-bottom: 20px;"></div>
-    <p>Move the map, check result ... </p>
-    <p id="result"></p>
+    <p>Open Javascript console, move the map ...</p>
     <script type="text/javascript">
-        var map1 = L.map('map1').setView([48.850258, 2.351074], 11);
+        var map1 = L.map('map1', { fullscreenControl: true }).setView([48.850258, 2.351074], 11);
     	// create the tile layer with correct attribution
     	L.tileLayer('https://a.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -32,13 +34,19 @@
     		var east = bounds.getEast();
     		var north = bounds.getNorth();
     		
-     		document.getElementById("result").innerHTML += '<a href="https://a.tile.openstreetmap.org/' + createTile(map1.getCenter().lat, map1.getCenter().lng, zoom) + '.png">center tile (zoom ' + zoom + ')</a>  ';
-     		document.getElementById("result").innerHTML += '<a href="https://a.tile.openstreetmap.org/' + createTile(north, west, zoom) + '.png">north/west tile (zoom ' + zoom + ')</a>  ';
-     		document.getElementById("result").innerHTML += '<a href="https://a.tile.openstreetmap.org/' + createTile(south, east, zoom) + '.png">south/east tile (zoom ' + zoom + ')</a> <br/>';
-     		document.getElementById("result").innerHTML += '<a href="https://a.tile.openstreetmap.org/' + createTile(map1.getCenter().lat, map1.getCenter().lng, 8) + '.png">center tile (zoom 8)</a>  ';
-     		document.getElementById("result").innerHTML += '<a href="https://a.tile.openstreetmap.org/' + createTile(north, west, 8) + '.png">north/west tile (zoom 8)</a>  ';
-     		document.getElementById("result").innerHTML += '<a href="https://a.tile.openstreetmap.org/' + createTile(south, east, 8) + '.png">south/east tile (zoom 8)</a><br/>';
-         });
+    		console.log('zoom: ' + zoom);
+     		console.log('center tile: https://a.tile.openstreetmap.org/' + createTile(map1.getCenter().lat, map1.getCenter().lng, zoom) + '.png');
+     		console.log('width: ' + long2tile(east, zoom) + ' - ' + long2tile(west, zoom));
+     		console.log('height: ' + lat2tile(south, zoom) + ' - ' + lat2tile(north, zoom));
+     		console.log('num of tiles: ' + ( (long2tile(east, zoom) - long2tile(west, zoom) + 1) * (lat2tile(south, zoom) - lat2tile(north, zoom) + 1) ));
+     		
+     		zoom = zoom - 3;
+    		console.log('zoom: ' + zoom);
+    		console.log('center tile: https://a.tile.openstreetmap.org/' + createTile(map1.getCenter().lat, map1.getCenter().lng, zoom) + '.png');
+     		console.log('width: ' + long2tile(east, zoom) + ' - ' + long2tile(west, zoom));
+     		console.log('height: ' + lat2tile(south, zoom) + ' - ' + lat2tile(north, zoom));
+     		console.log('num of tiles: ' + ( (long2tile(east, zoom) - long2tile(west, zoom) + 1) * (lat2tile(south, zoom) - lat2tile(north, zoom) + 1) ));
+          });
  
     	function long2tile(lon,zoom) { return (Math.floor((lon+180)/360*Math.pow(2,zoom))); }
     	function lat2tile(lat,zoom)  { return (Math.floor((1-Math.log(Math.tan(lat*Math.PI/180) + 1/Math.cos(lat*Math.PI/180))/Math.PI)/2 *Math.pow(2,zoom))); }
