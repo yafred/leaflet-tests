@@ -1,0 +1,16 @@
+[
+{"name":"Clermont-Ferrand","latitude":"45.77972","longitude":"3.08694","population":"138588","region":"84","departement":"63","arrondissement":"632","commune":"63113"},
+{"name":"Cournon-d'Auvergne","latitude":"45.74111","longitude":"3.19639","population":"19494","region":"84","departement":"63","arrondissement":"632","commune":"63124"},
+{"name":"Riom","latitude":"45.89361","longitude":"3.1125","population":"17779","region":"84","departement":"63","arrondissement":"634","commune":"63300"},
+{"name":"Chamalières","latitude":"45.77361","longitude":"3.06694","population":"17050","region":"84","departement":"63","arrondissement":"632","commune":"63075"},
+{"name":"Beaumont","latitude":"45.75167","longitude":"3.08306","population":"10823","region":"84","departement":"63","arrondissement":"632","commune":"63032"},
+{"name":"Pont-du-Château","latitude":"45.79833","longitude":"3.24833","population":"10582","region":"84","departement":"63","arrondissement":"632","commune":"63284"},
+{"name":"Gerzat","latitude":"45.82583","longitude":"3.14472","population":"10398","region":"84","departement":"63","arrondissement":"632","commune":"63164"},
+{"name":"Aubière","latitude":"45.75083","longitude":"3.11083","population":"9760","region":"84","departement":"63","arrondissement":"632","commune":"63014"},
+{"name":"Lempdes","latitude":"45.77111","longitude":"3.19361","population":"8292","region":"84","departement":"63","arrondissement":"632","commune":"63193"},
+{"name":"Romagnat","latitude":"45.72944","longitude":"3.10056","population":"8129","region":"84","departement":"63","arrondissement":"632","commune":"63307"},
+{"name":"Cébazat","latitude":"45.83139","longitude":"3.1","population":"7710","region":"84","departement":"63","arrondissement":"632","commune":"63063"},
+{"name":"Châtel-Guyon","latitude":"45.9225","longitude":"3.06417","population":"6223","region":"84","departement":"63","arrondissement":"634","commune":"63103"},
+{"name":"Lezoux","latitude":"45.82695","longitude":"3.37943","population":"5570","region":"84","departement":"63","arrondissement":"635","commune":"63195"},
+{"name":"Ceyrat","latitude":"45.73278","longitude":"3.06333","population":"5371","region":"84","departement":"63","arrondissement":"632","commune":"63070"}
+]

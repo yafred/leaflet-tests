@@ -1,0 +1,16 @@
+[
+{"name":"Lorient","latitude":"47.74583","longitude":"-3.36639","population":"57812","region":"53","departement":"56","arrondissement":"561","commune":"56121"},
+{"name":"Ploemeur","latitude":"47.73583","longitude":"-3.43111","population":"17996","region":"53","departement":"56","arrondissement":"561","commune":"56162"},
+{"name":"Larmor-Plage","latitude":"47.70639","longitude":"-3.38417","population":"8423","region":"53","departement":"56","arrondissement":"561","commune":"56107"},
+{"name":"Riantec","latitude":"47.71083","longitude":"-3.31056","population":"5077","region":"53","departement":"56","arrondissement":"561","commune":"56193"},
+{"name":"Plouhinec","latitude":"47.6973","longitude":"-3.25","population":"4922","region":"53","departement":"56","arrondissement":"561","commune":"56169"},
+{"name":"Locmiquélic","latitude":"47.72528","longitude":"-3.34083","population":"4160","region":"53","departement":"56","arrondissement":"561","commune":"56118"},
+{"name":"Belz","latitude":"47.67583","longitude":"-3.17","population":"3476","region":"53","departement":"56","arrondissement":"561","commune":"56013"},
+{"name":"Merlevenez","latitude":"47.73667","longitude":"-3.23361","population":"3015","region":"53","departement":"56","arrondissement":"561","commune":"56130"},
+{"name":"Port-Louis","latitude":"47.7063","longitude":"-3.3526","population":"2808","region":"53","departement":"56","arrondissement":"561","commune":"56181"},
+{"name":"Groix","latitude":"47.63861","longitude":"-3.455","population":"2287","region":"53","departement":"56","arrondissement":"561","commune":"56069"},
+{"name":"Étel","latitude":"47.65778","longitude":"-3.20083","population":"2063","region":"53","departement":"56","arrondissement":"561","commune":"56055"},
+{"name":"Nostang","latitude":"47.74972","longitude":"-3.18778","population":"1324","region":"53","departement":"56","arrondissement":"561","commune":"56148"},
+{"name":"Sainte-Hélène","latitude":"47.72","longitude":"-3.20472","population":"1091","region":"53","departement":"56","arrondissement":"561","commune":"56220"},
+{"name":"Gâvres","latitude":"47.6946","longitude":"-3.3526","population":"752","region":"53","departement":"56","arrondissement":"561","commune":"56062"}
+]

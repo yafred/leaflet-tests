@@ -1,0 +1,18 @@
+[
+{"name":"Sète","latitude":"43.40444","longitude":"3.69667","population":"42496","region":"76","departement":"34","arrondissement":"343","commune":"34301"},
+{"name":"Frontignan","latitude":"43.44722","longitude":"3.75556","population":"22684","region":"76","departement":"34","arrondissement":"343","commune":"34108"},
+{"name":"Lattes","latitude":"43.56889","longitude":"3.90861","population":"15804","region":"76","departement":"34","arrondissement":"343","commune":"34129"},
+{"name":"Mèze","latitude":"43.4268","longitude":"3.6053","population":"10749","region":"76","departement":"34","arrondissement":"343","commune":"34157"},
+{"name":"Villeneuve-lès-Maguelone","latitude":"43.5321","longitude":"3.8618","population":"8900","region":"76","departement":"34","arrondissement":"343","commune":"34337"},
+{"name":"Saint-Jean-de-Védas","latitude":"43.57639","longitude":"3.82389","population":"8818","region":"76","departement":"34","arrondissement":"343","commune":"34270"},
+{"name":"Pérols","latitude":"43.565","longitude":"3.95056","population":"8453","region":"76","departement":"34","arrondissement":"343","commune":"34198"},
+{"name":"La Grande-Motte","latitude":"43.56056","longitude":"4.085","population":"8391","region":"76","departement":"34","arrondissement":"343","commune":"34344"},
+{"name":"Aigues-Mortes","latitude":"43.56667","longitude":"4.1925","population":"8116","region":"76","departement":"30","arrondissement":"302","commune":"30003"},
+{"name":"Le Grau-du-Roi","latitude":"43.53722","longitude":"4.13667","population":"7995","region":"76","departement":"30","arrondissement":"302","commune":"30133"},
+{"name":"Marseillan","latitude":"43.35639","longitude":"3.52778","population":"7817","region":"76","departement":"34","arrondissement":"341","commune":"34150"},
+{"name":"Balaruc-les-Bains","latitude":"43.44083","longitude":"3.67722","population":"6622","region":"76","departement":"34","arrondissement":"343","commune":"34023"},
+{"name":"Fabrègues","latitude":"43.55028","longitude":"3.77611","population":"6214","region":"76","departement":"34","arrondissement":"343","commune":"34095"},
+{"name":"Palavas-les-Flots","latitude":"43.52944","longitude":"3.93056","population":"5996","region":"76","departement":"34","arrondissement":"343","commune":"34192"},
+{"name":"Cournonterral","latitude":"43.55778","longitude":"3.71917","population":"5900","region":"76","departement":"34","arrondissement":"343","commune":"34088"},
+{"name":"Gigean","latitude":"43.49972","longitude":"3.71111","population":"5524","region":"76","departement":"34","arrondissement":"343","commune":"34113"}
+]

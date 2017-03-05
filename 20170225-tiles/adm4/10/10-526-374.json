@@ -1,0 +1,23 @@
+[
+{"name":"Martigues","latitude":"43.40528","longitude":"5.0475","population":"46625","region":"93","departement":"13","arrondissement":"134","commune":"13056"},
+{"name":"Istres","latitude":"43.51417","longitude":"4.98889","population":"42460","region":"93","departement":"13","arrondissement":"134","commune":"13047"},
+{"name":"Vitrolles","latitude":"43.46","longitude":"5.24861","population":"36117","region":"93","departement":"13","arrondissement":"134","commune":"13117"},
+{"name":"Marignane","latitude":"43.41694","longitude":"5.21472","population":"34226","region":"93","departement":"13","arrondissement":"134","commune":"13054"},
+{"name":"Port-de-Bouc","latitude":"43.405","longitude":"4.98861","population":"17181","region":"93","departement":"13","arrondissement":"134","commune":"13077"},
+{"name":"Fos-sur-Mer","latitude":"43.43639","longitude":"4.94528","population":"15453","region":"93","departement":"13","arrondissement":"134","commune":"13039"},
+{"name":"Berre-l'Étang","latitude":"43.47556","longitude":"5.16806","population":"13853","region":"93","departement":"13","arrondissement":"134","commune":"13014"},
+{"name":"Rognac","latitude":"43.48778","longitude":"5.23222","population":"11931","region":"93","departement":"13","arrondissement":"134","commune":"13081"},
+{"name":"Châteauneuf-les-Martigues","latitude":"43.38306","longitude":"5.16417","population":"11331","region":"93","departement":"13","arrondissement":"134","commune":"13026"},
+{"name":"Gignac-la-Nerthe","latitude":"43.39333","longitude":"5.23583","population":"9127","region":"93","departement":"13","arrondissement":"134","commune":"13043"},
+{"name":"Velaux","latitude":"43.5225","longitude":"5.25389","population":"8466","region":"93","departement":"13","arrondissement":"131","commune":"13112"},
+{"name":"Saint-Chamas","latitude":"43.55028","longitude":"5.03472","population":"7781","region":"93","departement":"13","arrondissement":"134","commune":"13092"},
+{"name":"Sausset-les-Pins","latitude":"43.33222","longitude":"5.11389","population":"7471","region":"93","departement":"13","arrondissement":"134","commune":"13104"},
+{"name":"La Fare-les-Oliviers","latitude":"43.55167","longitude":"5.19472","population":"6710","region":"93","departement":"13","arrondissement":"131","commune":"13037"},
+{"name":"Saint-Victoret","latitude":"43.42083","longitude":"5.23333","population":"6514","region":"93","departement":"13","arrondissement":"134","commune":"13102"},
+{"name":"Carry-le-Rouet","latitude":"43.33194","longitude":"5.15194","population":"6320","region":"93","departement":"13","arrondissement":"134","commune":"13021"},
+{"name":"Saint-Mitre-les-Remparts","latitude":"43.455","longitude":"5.01417","population":"5379","region":"93","departement":"13","arrondissement":"134","commune":"13098"},
+{"name":"Ensuès-la-Redonne","latitude":"43.35583","longitude":"5.20417","population":"5197","region":"93","departement":"13","arrondissement":"134","commune":"13033"},
+{"name":"Le Rove","latitude":"43.36917","longitude":"5.25028","population":"4223","region":"93","departement":"13","arrondissement":"134","commune":"13088"},
+{"name":"Coudoux","latitude":"43.55778","longitude":"5.24833","population":"3447","region":"93","departement":"13","arrondissement":"131","commune":"13118"},
+{"name":"Cornillon-Confoux","latitude":"43.5625","longitude":"5.07167","population":"1339","region":"93","departement":"13","arrondissement":"131","commune":"13029"}
+]

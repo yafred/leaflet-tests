@@ -1,0 +1,23 @@
+[
+{"name":"Aups","latitude":"43.6284","longitude":"6.2252","population":"2083","region":"93","departement":"83","arrondissement":"833","commune":"83007"},
+{"name":"Régusse","latitude":"43.65528","longitude":"6.13194","population":"2067","region":"93","departement":"83","arrondissement":"833","commune":"83102"},
+{"name":"Riez","latitude":"43.81806","longitude":"6.09278","population":"1783","region":"93","departement":"04","arrondissement":"043","commune":"04166"},
+{"name":"Tavernes","latitude":"43.59361","longitude":"6.01667","population":"1199","region":"93","departement":"83","arrondissement":"833","commune":"83135"},
+{"name":"Villecroze","latitude":"43.58222","longitude":"6.27639","population":"1128","region":"93","departement":"83","arrondissement":"831","commune":"83149"},
+{"name":"Roumoules","latitude":"43.82556","longitude":"6.13","population":"711","region":"93","departement":"04","arrondissement":"043","commune":"04172"},
+{"name":"Tourtour","latitude":"43.58944","longitude":"6.3025","population":"569","region":"93","departement":"83","arrondissement":"831","commune":"83139"},
+{"name":"Montmeyan","latitude":"43.64667","longitude":"6.06306","population":"543","region":"93","departement":"83","arrondissement":"833","commune":"83084"},
+{"name":"Allemagne-en-Provence","latitude":"43.78222","longitude":"6.00694","population":"505","region":"93","departement":"04","arrondissement":"043","commune":"04004"},
+{"name":"Quinson","latitude":"43.70222","longitude":"6.03972","population":"446","region":"93","departement":"04","arrondissement":"043","commune":"04158"},
+{"name":"Fox-Amphoux","latitude":"43.5969","longitude":"6.0938","population":"443","region":"93","departement":"83","arrondissement":"833","commune":"83060"},
+{"name":"Montagnac-Montpezat","latitude":"43.7796","longitude":"6.0956","population":"417","region":"93","departement":"04","arrondissement":"043","commune":"04124"},
+{"name":"Bauduen","latitude":"43.73389","longitude":"6.17583","population":"324","region":"93","departement":"83","arrondissement":"833","commune":"83015"},
+{"name":"Artignosc-sur-Verdon","latitude":"43.70306","longitude":"6.09028","population":"293","region":"93","departement":"83","arrondissement":"833","commune":"83005"},
+{"name":"Moissac-Bellevue","latitude":"43.65278","longitude":"6.16667","population":"278","region":"93","departement":"83","arrondissement":"833","commune":"83078"},
+{"name":"Aiguines","latitude":"43.77583","longitude":"6.24361","population":"256","region":"93","departement":"83","arrondissement":"833","commune":"83002"},
+{"name":"Les Salles-sur-Verdon","latitude":"43.77417","longitude":"6.20972","population":"231","region":"93","departement":"83","arrondissement":"833","commune":"83122"},
+{"name":"Baudinard-sur-Verdon","latitude":"43.7166","longitude":"6.1352","population":"176","region":"93","departement":"83","arrondissement":"833","commune":"83014"},
+{"name":"Sainte-Croix-du-Verdon","latitude":"43.7589","longitude":"6.1514","population":"124","region":"93","departement":"04","arrondissement":"043","commune":"04176"},
+{"name":"Saint-Laurent-du-Verdon","latitude":"43.72417","longitude":"6.06806","population":"92","region":"93","departement":"04","arrondissement":"043","commune":"04186"},
+{"name":"Vérignon","latitude":"43.65333","longitude":"6.27333","population":"13","region":"93","departement":"83","arrondissement":"833","commune":"83147"}
+]

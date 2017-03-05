@@ -1,0 +1,13 @@
+[
+{"name":"Cholet","latitude":"47.05889","longitude":"-0.87972","population":"54121","region":"52","departement":"49","arrondissement":"492","commune":"49099"},
+{"name":"Vallet","latitude":"47.16167","longitude":"-1.26694","population":"8301","region":"52","departement":"44","arrondissement":"442","commune":"44212"},
+{"name":"Ancenis","latitude":"47.37278","longitude":"-1.17833","population":"7543","region":"52","departement":"44","arrondissement":"444","commune":"44003"},
+{"name":"Chemillé-en-Anjou","latitude":"47.21222","longitude":"-0.72694","population":"6967","region":"52","departement":"49","arrondissement":"492","commune":"49092"},
+{"name":"Saint-Julien-de-Concelles","latitude":"47.25333","longitude":"-1.38556","population":"6839","region":"52","departement":"44","arrondissement":"442","commune":"44169"},
+{"name":"Clisson","latitude":"47.08694","longitude":"-1.28361","population":"6778","region":"52","departement":"44","arrondissement":"442","commune":"44043"},
+{"name":"Beaupréau-en-Mauges","latitude":"47.20194","longitude":"-0.99444","population":"6711","region":"52","departement":"49","arrondissement":"492","commune":"49023"},
+{"name":"Sèvremoine","latitude":"47.12389","longitude":"-0.99167","population":"6689","region":"52","departement":"49","arrondissement":"492","commune":"49301"},
+{"name":"Le Loroux-Bottereau","latitude":"47.2383","longitude":"-1.3483","population":"6635","region":"52","departement":"44","arrondissement":"442","commune":"44084"},
+{"name":"Chalonnes-sur-Loire","latitude":"47.35056","longitude":"-0.76389","population":"6421","region":"52","departement":"49","arrondissement":"491","commune":"49063"},
+{"name":"Divatte-sur-Loire","latitude":"47.27167","longitude":"-1.33806","population":"5088","region":"52","departement":"44","arrondissement":"442","commune":"44029"}
+]

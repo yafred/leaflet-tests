@@ -1,0 +1,15 @@
+[
+{"name":"Évreux","latitude":"49.02333","longitude":"1.1525","population":"51193","region":"28","departement":"27","arrondissement":"273","commune":"27229"},
+{"name":"Saint-Étienne-du-Rouvray","latitude":"49.37778","longitude":"1.10417","population":"28309","region":"28","departement":"76","arrondissement":"763","commune":"76575"},
+{"name":"Louviers","latitude":"49.21528","longitude":"1.16556","population":"17943","region":"28","departement":"27","arrondissement":"271","commune":"27375"},
+{"name":"Elbeuf","latitude":"49.28583","longitude":"1.00833","population":"17251","region":"28","departement":"76","arrondissement":"763","commune":"76231"},
+{"name":"Val-de-Reuil","latitude":"49.2741","longitude":"1.2113","population":"13461","region":"28","departement":"27","arrondissement":"271","commune":"27701"},
+{"name":"Oissel","latitude":"49.34194","longitude":"1.09139","population":"11584","region":"28","departement":"76","arrondissement":"763","commune":"76484"},
+{"name":"Caudebec-lès-Elbeuf","latitude":"49.28083","longitude":"1.02111","population":"9711","region":"28","departement":"76","arrondissement":"763","commune":"76165"},
+{"name":"Grand-Couronne","latitude":"49.3575","longitude":"1.00722","population":"9591","region":"28","departement":"76","arrondissement":"763","commune":"76319"},
+{"name":"Saint-Pierre-lès-Elbeuf","latitude":"49.2777","longitude":"1.0412","population":"8470","region":"28","departement":"76","arrondissement":"763","commune":"76640"},
+{"name":"Saint-Aubin-lès-Elbeuf","latitude":"49.30028","longitude":"1.01111","population":"8114","region":"28","departement":"76","arrondissement":"763","commune":"76561"},
+{"name":"Gaillon","latitude":"49.16028","longitude":"1.33583","population":"7224","region":"28","departement":"27","arrondissement":"271","commune":"27275"},
+{"name":"Cléon","latitude":"49.315","longitude":"1.03556","population":"5648","region":"28","departement":"76","arrondissement":"763","commune":"76178"},
+{"name":"Conches-en-Ouche","latitude":"48.96056","longitude":"0.9425","population":"5007","region":"28","departement":"27","arrondissement":"273","commune":"27165"}
+]

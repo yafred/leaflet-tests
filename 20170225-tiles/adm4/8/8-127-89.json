@@ -1,0 +1,12 @@
+[
+{"name":"Angers","latitude":"47.47278","longitude":"-0.55556","population":"147305","region":"52","departement":"49","arrondissement":"491","commune":"49007"},
+{"name":"Cholet","latitude":"47.05889","longitude":"-0.87972","population":"54121","region":"52","departement":"49","arrondissement":"492","commune":"49099"},
+{"name":"Saumur","latitude":"47.25917","longitude":"-0.07806","population":"28070","region":"52","departement":"49","arrondissement":"493","commune":"49328"},
+{"name":"La Flèche","latitude":"47.69972","longitude":"-0.07611","population":"15228","region":"52","departement":"72","arrondissement":"721","commune":"72154"},
+{"name":"Avrillé","latitude":"47.50694","longitude":"-0.58889","population":"12454","region":"52","departement":"49","arrondissement":"491","commune":"49015"},
+{"name":"Sablé-sur-Sarthe","latitude":"47.84","longitude":"-0.33417","population":"12399","region":"52","departement":"72","arrondissement":"721","commune":"72264"},
+{"name":"Trélazé","latitude":"47.44611","longitude":"-0.46639","population":"12181","region":"52","departement":"49","arrondissement":"491","commune":"49353"},
+{"name":"Châteaubriant","latitude":"47.71694","longitude":"-1.37611","population":"12077","region":"52","departement":"44","arrondissement":"441","commune":"44036"},
+{"name":"Les Ponts-de-Cé","latitude":"47.42444","longitude":"-0.52528","population":"11575","region":"52","departement":"49","arrondissement":"491","commune":"49246"},
+{"name":"Château-Gontier","latitude":"47.82861","longitude":"-0.70278","population":"11532","region":"52","departement":"53","arrondissement":"531","commune":"53062"}
+]

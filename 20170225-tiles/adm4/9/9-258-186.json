@@ -1,0 +1,16 @@
+[
+{"name":"Toulouse","latitude":"43.60444","longitude":"1.44194","population":"440204","region":"76","departement":"31","arrondissement":"313","commune":"31555"},
+{"name":"Balma","latitude":"43.61028","longitude":"1.49861","population":"13284","region":"76","departement":"31","arrondissement":"313","commune":"31044"},
+{"name":"Gaillac","latitude":"43.90056","longitude":"1.89833","population":"13164","region":"76","departement":"81","arrondissement":"811","commune":"81099"},
+{"name":"Graulhet","latitude":"43.76083","longitude":"1.98861","population":"12121","region":"76","departement":"81","arrondissement":"812","commune":"81105"},
+{"name":"L'Union","latitude":"43.6563","longitude":"1.4849","population":"12026","region":"76","departement":"31","arrondissement":"313","commune":"31561"},
+{"name":"Lavaur","latitude":"43.69889","longitude":"1.81889","population":"10475","region":"76","departement":"81","arrondissement":"812","commune":"81140"},
+{"name":"Saint-Jean","latitude":"43.66528","longitude":"1.505","population":"10269","region":"76","departement":"31","arrondissement":"313","commune":"31488"},
+{"name":"Castelginest","latitude":"43.69361","longitude":"1.43278","population":"8611","region":"76","departement":"31","arrondissement":"313","commune":"31116"},
+{"name":"Aucamville","latitude":"43.6689","longitude":"1.4309","population":"7933","region":"76","departement":"31","arrondissement":"313","commune":"31022"},
+{"name":"Saint-Sulpice-la-Pointe","latitude":"43.7742","longitude":"1.6874","population":"7921","region":"76","departement":"81","arrondissement":"812","commune":"81271"},
+{"name":"Launaguet","latitude":"43.67389","longitude":"1.45694","population":"6962","region":"76","departement":"31","arrondissement":"313","commune":"31282"},
+{"name":"Saint-Alban","latitude":"43.69194","longitude":"1.41472","population":"5690","region":"76","departement":"31","arrondissement":"313","commune":"31467"},
+{"name":"Villemur-sur-Tarn","latitude":"43.86556","longitude":"1.505","population":"5476","region":"76","departement":"31","arrondissement":"313","commune":"31584"},
+{"name":"Nègrepelisse","latitude":"44.07528","longitude":"1.52167","population":"5056","region":"76","departement":"82","arrondissement":"822","commune":"82134"}
+]

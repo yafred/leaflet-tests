@@ -1,0 +1,11 @@
+[
+{"name":"Vannes","latitude":"47.655","longitude":"-2.7604","population":"52683","region":"53","departement":"56","arrondissement":"563","commune":"56260"},
+{"name":"Saint-Avé","latitude":"47.68667","longitude":"-2.73444","population":"10091","region":"53","departement":"56","arrondissement":"563","commune":"56206"},
+{"name":"Ploërmel","latitude":"47.93167","longitude":"-2.3975","population":"9008","region":"53","departement":"56","arrondissement":"563","commune":"56165"},
+{"name":"Séné","latitude":"47.61972","longitude":"-2.73722","population":"8527","region":"53","departement":"56","arrondissement":"563","commune":"56243"},
+{"name":"Sarzeau","latitude":"47.52722","longitude":"-2.76972","population":"7659","region":"53","departement":"56","arrondissement":"563","commune":"56240"},
+{"name":"Questembert","latitude":"47.66139","longitude":"-2.45306","population":"7021","region":"53","departement":"56","arrondissement":"563","commune":"56184"},
+{"name":"Theix-Noyalo","latitude":"47.62917","longitude":"-2.65583","population":"6765","region":"53","departement":"56","arrondissement":"563","commune":"56251"},
+{"name":"Guer","latitude":"47.90389","longitude":"-2.12056","population":"6174","region":"53","departement":"56","arrondissement":"563","commune":"56075"},
+{"name":"Elven","latitude":"47.73139","longitude":"-2.59056","population":"5059","region":"53","departement":"56","arrondissement":"563","commune":"56053"}
+]

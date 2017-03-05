@@ -1,0 +1,17 @@
+[
+{"name":"Cholet","latitude":"47.05889","longitude":"-0.87972","population":"54121","region":"52","departement":"49","arrondissement":"492","commune":"49099"},
+{"name":"Chemillé-en-Anjou","latitude":"47.21222","longitude":"-0.72694","population":"6967","region":"52","departement":"49","arrondissement":"492","commune":"49092"},
+{"name":"Beaupréau-en-Mauges","latitude":"47.20194","longitude":"-0.99444","population":"6711","region":"52","departement":"49","arrondissement":"492","commune":"49023"},
+{"name":"Sèvremoine","latitude":"47.12389","longitude":"-0.99167","population":"6689","region":"52","departement":"49","arrondissement":"492","commune":"49301"},
+{"name":"Le May-sur-Èvre","latitude":"47.13528","longitude":"-0.89278","population":"3924","region":"52","departement":"49","arrondissement":"492","commune":"49193"},
+{"name":"La Séguinière","latitude":"47.06306","longitude":"-0.93972","population":"3721","region":"52","departement":"49","arrondissement":"492","commune":"49332"},
+{"name":"Trémentines","latitude":"47.12222","longitude":"-0.78639","population":"2831","region":"52","departement":"49","arrondissement":"492","commune":"49355"},
+{"name":"Saint-Léger-sous-Cholet","latitude":"47.09306","longitude":"-0.90972","population":"2474","region":"52","departement":"49","arrondissement":"492","commune":"49299"},
+{"name":"Bégrolles-en-Mauges","latitude":"47.14056","longitude":"-0.94139","population":"1827","region":"52","departement":"49","arrondissement":"492","commune":"49027"},
+{"name":"La Romagne","latitude":"47.06111","longitude":"-1.02194","population":"1731","region":"52","departement":"49","arrondissement":"492","commune":"49260"},
+{"name":"Vezins","latitude":"47.12028","longitude":"-0.71139","population":"1647","region":"52","departement":"49","arrondissement":"492","commune":"49371"},
+{"name":"Nuaillé","latitude":"47.09444","longitude":"-0.79583","population":"1339","region":"52","departement":"49","arrondissement":"492","commune":"49231"},
+{"name":"Montrevault-sur-Èvre","latitude":"47.26139","longitude":"-1.04528","population":"1279","region":"52","departement":"49","arrondissement":"492","commune":"49218"},
+{"name":"Toutlemonde","latitude":"47.055","longitude":"-0.76694","population":"1124","region":"52","departement":"49","arrondissement":"492","commune":"49352"},
+{"name":"Mazières-en-Mauges","latitude":"47.04583","longitude":"-0.8175","population":"1007","region":"52","departement":"49","arrondissement":"492","commune":"49195"}
+]

@@ -1,0 +1,14 @@
+[
+{"name":"Argent-sur-Sauldre","latitude":"47.55667","longitude":"2.44306","population":"2223","region":"24","departement":"18","arrondissement":"183","commune":"18011"},
+{"name":"Cerdon","latitude":"47.63583","longitude":"2.36111","population":"1061","region":"24","departement":"45","arrondissement":"452","commune":"45063"},
+{"name":"Brinon-sur-Sauldre","latitude":"47.56472","longitude":"2.255","population":"1046","region":"24","departement":"18","arrondissement":"183","commune":"18037"},
+{"name":"Viglain","latitude":"47.72833","longitude":"2.3025","population":"905","region":"24","departement":"45","arrondissement":"452","commune":"45336"},
+{"name":"Clémont","latitude":"47.56806","longitude":"2.30722","population":"701","region":"24","departement":"18","arrondissement":"183","commune":"18067"},
+{"name":"Sennely","latitude":"47.67833","longitude":"2.14917","population":"630","region":"24","departement":"45","arrondissement":"452","commune":"45309"},
+{"name":"Isdes","latitude":"47.67194","longitude":"2.25556","population":"612","region":"24","departement":"45","arrondissement":"452","commune":"45171"},
+{"name":"Vannes-sur-Cosson","latitude":"47.71306","longitude":"2.21194","population":"598","region":"24","departement":"45","arrondissement":"452","commune":"45331"},
+{"name":"Villemurlin","latitude":"47.685","longitude":"2.33556","population":"561","region":"24","departement":"45","arrondissement":"452","commune":"45340"},
+{"name":"Saint-Aignan-le-Jaillard","latitude":"47.7425","longitude":"2.43917","population":"558","region":"24","departement":"45","arrondissement":"452","commune":"45268"},
+{"name":"Souvigny-en-Sologne","latitude":"47.64472","longitude":"2.16417","population":"492","region":"24","departement":"41","arrondissement":"413","commune":"41251"},
+{"name":"Chaon","latitude":"47.60861","longitude":"2.1725","population":"439","region":"24","departement":"41","arrondissement":"413","commune":"41036"}
+]

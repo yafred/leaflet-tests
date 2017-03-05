@@ -1,0 +1,20 @@
+[
+{"name":"Gien","latitude":"47.6892","longitude":"2.6297","population":"15161","region":"24","departement":"45","arrondissement":"451","commune":"45155"},
+{"name":"Briare","latitude":"47.63806","longitude":"2.73917","population":"5688","region":"24","departement":"45","arrondissement":"451","commune":"45053"},
+{"name":"Châtillon-sur-Loire","latitude":"47.59111","longitude":"2.75278","population":"3137","region":"24","departement":"45","arrondissement":"451","commune":"45087"},
+{"name":"Coullons","latitude":"47.62056","longitude":"2.4925","population":"2424","region":"24","departement":"45","arrondissement":"451","commune":"45108"},
+{"name":"Poilly-lez-Gien","latitude":"47.67778","longitude":"2.59889","population":"2312","region":"24","departement":"45","arrondissement":"451","commune":"45254"},
+{"name":"Ouzouer-sur-Trézée","latitude":"47.67278","longitude":"2.80806","population":"1311","region":"24","departement":"45","arrondissement":"451","commune":"45245"},
+{"name":"Saint-Martin-sur-Ocre","latitude":"47.65917","longitude":"2.65833","population":"1234","region":"24","departement":"45","arrondissement":"451","commune":"45291"},
+{"name":"Blancafort","latitude":"47.5325","longitude":"2.53056","population":"1136","region":"24","departement":"18","arrondissement":"183","commune":"18030"},
+{"name":"Nevoy","latitude":"47.71333","longitude":"2.57944","population":"1133","region":"24","departement":"45","arrondissement":"451","commune":"45227"},
+{"name":"Saint-Gondon","latitude":"47.69889","longitude":"2.54139","population":"1087","region":"24","departement":"45","arrondissement":"451","commune":"45280"},
+{"name":"Saint-Brisson-sur-Loire","latitude":"47.64778","longitude":"2.68306","population":"1037","region":"24","departement":"45","arrondissement":"451","commune":"45271"},
+{"name":"Autry-le-Châtel","latitude":"47.5975","longitude":"2.60222","population":"1020","region":"24","departement":"45","arrondissement":"451","commune":"45016"},
+{"name":"La Bussière","latitude":"47.7459","longitude":"2.7512","population":"811","region":"24","departement":"45","arrondissement":"451","commune":"45060"},
+{"name":"Ousson-sur-Loire","latitude":"47.58972","longitude":"2.7875","population":"748","region":"24","departement":"45","arrondissement":"451","commune":"45238"},
+{"name":"Saint-Firmin-sur-Loire","latitude":"47.62583","longitude":"2.73222","population":"503","region":"24","departement":"45","arrondissement":"451","commune":"45276"},
+{"name":"Saint-Florent","latitude":"47.691","longitude":"2.4776","population":"471","region":"24","departement":"45","arrondissement":"452","commune":"45277"},
+{"name":"Cernoy-en-Berry","latitude":"47.54","longitude":"2.66111","population":"458","region":"24","departement":"45","arrondissement":"451","commune":"45064"},
+{"name":"Lion-en-Sullias","latitude":"47.72694","longitude":"2.48972","population":"400","region":"24","departement":"45","arrondissement":"452","commune":"45184"}
+]

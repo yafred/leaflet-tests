@@ -1,0 +1,22 @@
+[
+{"name":"Pontarlier","latitude":"46.90611","longitude":"6.35472","population":"18267","region":"27","departement":"25","arrondissement":"253","commune":"25462"},
+{"name":"Doubs","latitude":"46.92667","longitude":"6.35","population":"2539","region":"27","departement":"25","arrondissement":"253","commune":"25204"},
+{"name":"Grand'Combe-Châteleu","latitude":"47.0259","longitude":"6.5708","population":"1357","region":"27","departement":"25","arrondissement":"253","commune":"25285"},
+{"name":"Les Fourgs","latitude":"46.83417","longitude":"6.40528","population":"1183","region":"27","departement":"25","arrondissement":"253","commune":"25254"},
+{"name":"La Cluse-et-Mijoux","latitude":"46.872","longitude":"6.3791","population":"1175","region":"27","departement":"25","arrondissement":"253","commune":"25157"},
+{"name":"Montperreux","latitude":"46.82583","longitude":"6.34194","population":"770","region":"27","departement":"25","arrondissement":"253","commune":"25405"},
+{"name":"Arçon","latitude":"46.9475","longitude":"6.37889","population":"768","region":"27","departement":"25","arrondissement":"253","commune":"25024"},
+{"name":"Les Gras","latitude":"46.99472","longitude":"6.54444","population":"736","region":"27","departement":"25","arrondissement":"253","commune":"25296"},
+{"name":"Oye-et-Pallet","latitude":"46.85333","longitude":"6.33417","population":"689","region":"27","departement":"25","arrondissement":"253","commune":"25442"},
+{"name":"La Longeville","latitude":"47.0075","longitude":"6.4575","population":"640","region":"27","departement":"25","arrondissement":"253","commune":"25347"},
+{"name":"Maisons-du-Bois-Lièvremont","latitude":"46.9674","longitude":"6.4205","population":"602","region":"27","departement":"25","arrondissement":"253","commune":"25357"},
+{"name":"Verrières-de-Joux","latitude":"46.89689","longitude":"6.4497","population":"437","region":"27","departement":"25","arrondissement":"253","commune":"25609"},
+{"name":"La Chaux","latitude":"47.02306","longitude":"6.4325","population":"418","region":"27","departement":"25","arrondissement":"253","commune":"25139"},
+{"name":"Montbenoît","latitude":"46.99278","longitude":"6.46194","population":"383","region":"27","departement":"25","arrondissement":"253","commune":"25390"},
+{"name":"Ville-du-Pont","latitude":"47.00306","longitude":"6.4775","population":"298","region":"27","departement":"25","arrondissement":"253","commune":"25620"},
+{"name":"Aubonne","latitude":"47.03611","longitude":"6.32861","population":"232","region":"27","departement":"25","arrondissement":"253","commune":"25029"},
+{"name":"Hauterive-la-Fresse","latitude":"46.96944","longitude":"6.44889","population":"214","region":"27","departement":"25","arrondissement":"253","commune":"25303"},
+{"name":"Bugny","latitude":"46.99472","longitude":"6.35333","population":"156","region":"27","departement":"25","arrondissement":"253","commune":"25099"},
+{"name":"Les Alliés","latitude":"46.94806","longitude":"6.4475","population":"107","region":"27","departement":"25","arrondissement":"253","commune":"25012"},
+{"name":"Montflovin","latitude":"46.98639","longitude":"6.445","population":"93","region":"27","departement":"25","arrondissement":"253","commune":"25398"}
+]

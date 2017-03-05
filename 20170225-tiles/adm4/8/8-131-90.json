@@ -1,0 +1,10 @@
+[
+{"name":"Chalon-sur-Saône","latitude":"46.7937","longitude":"4.8482","population":"45504","region":"27","departement":"71","arrondissement":"712","commune":"71076"},
+{"name":"Bourg-en-Bresse","latitude":"46.20472","longitude":"5.22806","population":"39586","region":"84","departement":"01","arrondissement":"012","commune":"01053"},
+{"name":"Mâcon","latitude":"46.30667","longitude":"4.83194","population":"34136","region":"27","departement":"71","arrondissement":"715","commune":"71270"},
+{"name":"Le Creusot","latitude":"46.80056","longitude":"4.44028","population":"22840","region":"27","departement":"71","arrondissement":"711","commune":"71153"},
+{"name":"Beaune","latitude":"47.02417","longitude":"4.83889","population":"22516","region":"27","departement":"21","arrondissement":"211","commune":"21054"},
+{"name":"Montceau-les-Mines","latitude":"46.66694","longitude":"4.36889","population":"19504","region":"27","departement":"71","arrondissement":"712","commune":"71306"},
+{"name":"Lons-le-Saunier","latitude":"46.67444","longitude":"5.55389","population":"17907","region":"27","departement":"39","arrondissement":"392","commune":"39300"},
+{"name":"Autun","latitude":"46.95111","longitude":"4.29861","population":"14496","region":"27","departement":"71","arrondissement":"711","commune":"71014"}
+]
