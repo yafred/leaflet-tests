@@ -49,6 +49,10 @@ function mapMoved(e) {
 		}
 	}
 	
+	//message
+	document.getElementById("msg").innerHTML = 'We are displaying zoom ' + zoom + '. We are showing data from level ' + dataZoom;
+	
+	
 	// Determine which tile we need
 	var dataEast = long2tile(east, dataZoom);
 	var dataWest = long2tile(west, dataZoom);
@@ -56,9 +60,11 @@ function mapMoved(e) {
 	var dataSouth = lat2tile(south, dataZoom);
 	
 	var dataTiles = [];
-	document.getElementById("msg").innerHTML ='';
+	var width = (dataEast - dataWest + 1) * 128;
+	document.getElementById("tiles-loaded").innerHTML ='';
+	document.getElementById("tiles-loaded").style.lineHeight = '0px';
+	document.getElementById("tiles-loaded").style.width = '' + width + 'px';
 	for(y = dataNorth; y < dataSouth + 1; y++) {
-		document.getElementById("msg").innerHTML += '<br/>';
 		for(x = dataWest; x < dataEast + 1; x++) {
 			$.ajax({
 			    url: 'adm4/' + dataZoom + '/' + dataZoom + '-' + x + '-' + y + '.json',
@@ -67,7 +73,7 @@ function mapMoved(e) {
 			}).done(function(data){
 				processJSON(data);
 			});
-			document.getElementById("msg").innerHTML += '<img style="width:128px; height:128px" src="https://a.tile.openstreetmap.org/' + dataZoom + '/' + x + '/' + y + '.png" />';
+			document.getElementById("tiles-loaded").innerHTML += '<img style="width:128px; height:128px; border-right:1px solid blue; border-bottom:1px solid blue;" src="https://a.tile.openstreetmap.org/' + dataZoom + '/' + x + '/' + y + '.png" />';
 		}		
 	}
 }
