@@ -1,9 +1,0 @@
-[
-{"name":"Marseille","latitude":"43.29667","longitude":"5.37639","population":"847084","region":"93","departement":"13","arrondissement":"133","commune":"13055"},
-{"name":"Aubagne","latitude":"43.29083","longitude":"5.57083","population":"46568","region":"93","departement":"13","arrondissement":"133","commune":"13005"},
-{"name":"La Ciotat","latitude":"43.17611","longitude":"5.60806","population":"33812","region":"93","departement":"13","arrondissement":"133","commune":"13028"},
-{"name":"Cassis","latitude":"43.21556","longitude":"5.53722","population":"7758","region":"93","departement":"13","arrondissement":"133","commune":"13022"},
-{"name":"Carnoux-en-Provence","latitude":"43.2567","longitude":"5.5646","population":"6933","region":"93","departement":"13","arrondissement":"133","commune":"13119"},
-{"name":"La Penne-sur-Huveaune","latitude":"43.28056","longitude":"5.51583","population":"6335","region":"93","departement":"13","arrondissement":"133","commune":"13070"},
-{"name":"Roquefort-la-Bédoule","latitude":"43.2475","longitude":"5.59083","population":"5042","region":"93","departement":"13","arrondissement":"133","commune":"13085"}
-]

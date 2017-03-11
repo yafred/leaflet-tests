@@ -1,9 +1,0 @@
-[
-{"name":"Laval","latitude":"48.07278","longitude":"-0.77","population":"51182","region":"52","departement":"53","arrondissement":"532","commune":"53130"},
-{"name":"Fougères","latitude":"48.35167","longitude":"-1.2","population":"19820","region":"53","departement":"35","arrondissement":"351","commune":"35115"},
-{"name":"Vitré","latitude":"48.12333","longitude":"-1.20944","population":"16712","region":"53","departement":"35","arrondissement":"351","commune":"35360"},
-{"name":"Flers","latitude":"48.74833","longitude":"-0.56944","population":"15592","region":"28","departement":"61","arrondissement":"612","commune":"61169"},
-{"name":"Argentan","latitude":"48.74444","longitude":"-0.02028","population":"14356","region":"28","departement":"61","arrondissement":"612","commune":"61006"},
-{"name":"Mayenne","latitude":"48.30306","longitude":"-0.61361","population":"13350","region":"52","departement":"53","arrondissement":"533","commune":"53147"},
-{"name":"Vire Normandie","latitude":"48.83861","longitude":"-0.88917","population":"12183","region":"28","departement":"14","arrondissement":"144","commune":"14762"}
-]

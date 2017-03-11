@@ -1,9 +1,0 @@
-[
-{"name":"Dunkerque","latitude":"51.0381","longitude":"2.3768","population":"92923","region":"32","departement":"59","arrondissement":"594","commune":"59183"},
-{"name":"Calais","latitude":"50.9472","longitude":"1.8566","population":"74336","region":"32","departement":"62","arrondissement":"626","commune":"62193"},
-{"name":"Coudekerque-Branche","latitude":"51.02472","longitude":"2.39083","population":"22588","region":"32","departement":"59","arrondissement":"594","commune":"59155"},
-{"name":"Grande-Synthe","latitude":"51.01306","longitude":"2.30222","population":"20901","region":"32","departement":"59","arrondissement":"594","commune":"59271"},
-{"name":"Saint-Omer","latitude":"50.7483","longitude":"2.2616","population":"14893","region":"32","departement":"62","arrondissement":"625","commune":"62765"},
-{"name":"Bailleul","latitude":"50.7375","longitude":"2.73389","population":"13989","region":"32","departement":"59","arrondissement":"594","commune":"59043"},
-{"name":"Gravelines","latitude":"50.98639","longitude":"2.1275","population":"11499","region":"32","departement":"59","arrondissement":"594","commune":"59273"}
-]

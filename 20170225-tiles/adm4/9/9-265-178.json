@@ -1,9 +1,0 @@
-[
-{"name":"Belfort","latitude":"47.64111","longitude":"6.84944","population":"50199","region":"27","departement":"90","arrondissement":"901","commune":"90010"},
-{"name":"Héricourt","latitude":"47.5775","longitude":"6.76167","population":"10481","region":"27","departement":"70","arrondissement":"701","commune":"70285"},
-{"name":"Lure","latitude":"47.68306","longitude":"6.49667","population":"8295","region":"27","departement":"70","arrondissement":"701","commune":"70310"},
-{"name":"Luxeuil-les-Bains","latitude":"47.81611","longitude":"6.38083","population":"7370","region":"27","departement":"70","arrondissement":"701","commune":"70311"},
-{"name":"Bethoncourt","latitude":"47.53444","longitude":"6.80389","population":"6014","region":"27","departement":"25","arrondissement":"252","commune":"25057"},
-{"name":"Grand-Charmont","latitude":"47.52722","longitude":"6.82361","population":"5121","region":"27","departement":"25","arrondissement":"252","commune":"25284"},
-{"name":"Valdoie","latitude":"47.66722","longitude":"6.84194","population":"5059","region":"27","departement":"90","arrondissement":"901","commune":"90099"}
-]

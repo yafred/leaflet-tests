@@ -10,13 +10,13 @@
 	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
 
 	</style>
- 	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
- 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+ 	<script src="//code.jquery.com/jquery-1.12.4.js"></script>
+ 	<script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
  	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 	
 	<!-- Leaflet -->
-	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
-	<script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+	<link rel="stylesheet" href="//unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+	<script src="//unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
 
 
 	<style>
@@ -50,7 +50,7 @@
 
 <div>
 <div id='map'></div>
-<img style="position: absolute; left: 300px; top: 200px; z-index: 1000" id="fakeMarker" src="https://unpkg.com/leaflet@1.0.1/dist/images/marker-icon.png"></img>
+<img style="position: absolute; left: 300px; top: 200px; z-index: 1000" id="fakeMarker" src="//unpkg.com/leaflet@1.0.1/dist/images/marker-icon.png"></img>
 </div>
 <p>Drag the marker and drop it on the boxes</p>
 
@@ -79,8 +79,8 @@
 	map = L.map('map').setView([46.566414, 2.4609375], 5);
 
 	// create the tile layer with correct attribution
-	L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    	attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+	L.tileLayer('//{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    	attribution: '&copy; <a href="//osm.org/copyright">OpenStreetMap</a> contributors'
 	}).addTo(map);
 </script>
 
@@ -91,7 +91,7 @@ if(window.location.hostname != "localhost") {
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
 ga('create', 'UA-21317761-7', 'auto');
 ga('send', 'pageview');

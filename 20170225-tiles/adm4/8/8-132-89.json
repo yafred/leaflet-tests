@@ -1,9 +1,0 @@
-[
-{"name":"Besançon","latitude":"47.24222","longitude":"6.02139","population":"117392","region":"27","departement":"25","arrondissement":"251","commune":"25056"},
-{"name":"Belfort","latitude":"47.64111","longitude":"6.84944","population":"50199","region":"27","departement":"90","arrondissement":"901","commune":"90010"},
-{"name":"Montbéliard","latitude":"47.50972","longitude":"6.79833","population":"26078","region":"27","departement":"25","arrondissement":"252","commune":"25388"},
-{"name":"Vesoul","latitude":"47.6226","longitude":"6.1559","population":"15920","region":"27","departement":"70","arrondissement":"702","commune":"70550"},
-{"name":"Audincourt","latitude":"47.48278","longitude":"6.83972","population":"14731","region":"27","departement":"25","arrondissement":"252","commune":"25031"},
-{"name":"Valentigney","latitude":"47.4625","longitude":"6.83222","population":"11558","region":"27","departement":"25","arrondissement":"252","commune":"25580"},
-{"name":"Héricourt","latitude":"47.5775","longitude":"6.76167","population":"10481","region":"27","departement":"70","arrondissement":"701","commune":"70285"}
-]
