@@ -1,9 +1,0 @@
-[
-{"name":"Colmar","latitude":"48.08111","longitude":"7.355","population":"67214","region":"44","departement":"68","arrondissement":"682","commune":"68066"},
-{"name":"Sélestat","latitude":"48.25944","longitude":"7.45417","population":"19332","region":"44","departement":"67","arrondissement":"675","commune":"67462"},
-{"name":"Erstein","latitude":"48.42194","longitude":"7.66111","population":"10630","region":"44","departement":"67","arrondissement":"675","commune":"67130"},
-{"name":"Wintzenheim","latitude":"48.07257","longitude":"7.29003","population":"7610","region":"44","departement":"68","arrondissement":"682","commune":"68374"},
-{"name":"Barr","latitude":"48.40761","longitude":"7.44942","population":"6789","region":"44","departement":"67","arrondissement":"675","commune":"67021"},
-{"name":"Benfeld","latitude":"48.37056","longitude":"7.59222","population":"5660","region":"44","departement":"67","arrondissement":"675","commune":"67028"},
-{"name":"Sainte-Marie-aux-Mines","latitude":"48.24667","longitude":"7.18389","population":"5541","region":"44","departement":"68","arrondissement":"685","commune":"68298"}
-]
