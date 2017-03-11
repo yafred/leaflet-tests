@@ -1,0 +1,20 @@
+[
+{"name":"Redon","latitude":"47.65139","longitude":"-2.08472","population":"9493","region":"53","departement":"35","arrondissement":"352","commune":"35236"},
+{"name":"Guémené-Penfao","latitude":"47.63","longitude":"-1.8325","population":"4951","region":"52","departement":"44","arrondissement":"441","commune":"44067"},
+{"name":"Plessé","latitude":"47.54167","longitude":"-1.88694","population":"4528","region":"52","departement":"44","arrondissement":"441","commune":"44128"},
+{"name":"Bains-sur-Oust","latitude":"47.70361","longitude":"-2.07139","population":"3379","region":"53","departement":"35","arrondissement":"352","commune":"35013"},
+{"name":"Saint-Nicolas-de-Redon","latitude":"47.64417","longitude":"-2.06611","population":"3063","region":"52","departement":"44","arrondissement":"441","commune":"44185"},
+{"name":"Guenrouet","latitude":"47.51917","longitude":"-1.95528","population":"2900","region":"52","departement":"44","arrondissement":"443","commune":"44068"},
+{"name":"Rieux","latitude":"47.59778","longitude":"-2.1075","population":"2880","region":"53","departement":"56","arrondissement":"563","commune":"56194"},
+{"name":"Avessac","latitude":"47.65333","longitude":"-1.98972","population":"2409","region":"52","departement":"44","arrondissement":"441","commune":"44007"},
+{"name":"Sainte-Marie","latitude":"47.69389","longitude":"-2.00083","population":"2239","region":"53","departement":"35","arrondissement":"352","commune":"35294"},
+{"name":"Fégréac","latitude":"47.58472","longitude":"-2.04444","population":"2229","region":"52","departement":"44","arrondissement":"441","commune":"44057"},
+{"name":"Sévérac","latitude":"47.55","longitude":"-2.07667","population":"1503","region":"52","departement":"44","arrondissement":"443","commune":"44196"},
+{"name":"Langon","latitude":"47.71972","longitude":"-1.84806","population":"1447","region":"53","departement":"35","arrondissement":"352","commune":"35145"},
+{"name":"Saint-Perreux","latitude":"47.66917","longitude":"-2.10806","population":"1160","region":"53","departement":"56","arrondissement":"563","commune":"56232"},
+{"name":"Sainte-Anne-sur-Vilaine","latitude":"47.73056","longitude":"-1.82556","population":"992","region":"53","departement":"35","arrondissement":"352","commune":"35249"},
+{"name":"Renac","latitude":"47.71972","longitude":"-1.97639","population":"931","region":"53","departement":"35","arrondissement":"352","commune":"35237"},
+{"name":"La Chapelle-de-Brain","latitude":"47.70028","longitude":"-1.93472","population":"931","region":"53","departement":"35","arrondissement":"352","commune":"35064"},
+{"name":"Cournon","latitude":"47.74639","longitude":"-2.10556","population":"746","region":"53","departement":"56","arrondissement":"563","commune":"56044"},
+{"name":"Massérac","latitude":"47.67278","longitude":"-1.91472","population":"619","region":"52","departement":"44","arrondissement":"441","commune":"44092"}
+]

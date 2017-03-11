@@ -1,0 +1,23 @@
+[
+{"name":"Montmorillon","latitude":"46.42611","longitude":"0.87083","population":"6410","region":"75","departement":"86","arrondissement":"862","commune":"86165"},
+{"name":"Lussac-les-Châteaux","latitude":"46.40278","longitude":"0.72667","population":"2351","region":"75","departement":"86","arrondissement":"862","commune":"86140"},
+{"name":"Lathus-Saint-Rémy","latitude":"46.3338","longitude":"0.9593","population":"1227","region":"75","departement":"86","arrondissement":"862","commune":"86120"},
+{"name":"La Trimouille","latitude":"46.46667","longitude":"1.04056","population":"977","region":"75","departement":"86","arrondissement":"862","commune":"86273"},
+{"name":"Saulgé","latitude":"46.37778","longitude":"0.87583","population":"968","region":"75","departement":"86","arrondissement":"862","commune":"86254"},
+{"name":"Persac","latitude":"46.34389","longitude":"0.70556","population":"854","region":"75","departement":"86","arrondissement":"862","commune":"86190"},
+{"name":"Sillars","latitude":"46.41833","longitude":"0.76917","population":"620","region":"75","departement":"86","arrondissement":"862","commune":"86262"},
+{"name":"Antigny","latitude":"46.535","longitude":"0.85389","population":"602","region":"75","departement":"86","arrondissement":"862","commune":"86006"},
+{"name":"Leignes-sur-Fontaine","latitude":"46.50583","longitude":"0.77694","population":"573","region":"75","departement":"86","arrondissement":"862","commune":"86126"},
+{"name":"Jouhet","latitude":"46.49111","longitude":"0.83944","population":"509","region":"75","departement":"86","arrondissement":"862","commune":"86117"},
+{"name":"Béthines","latitude":"46.54694","longitude":"0.97583","population":"481","region":"75","departement":"86","arrondissement":"862","commune":"86025"},
+{"name":"Chapelle-Viviers","latitude":"46.4832","longitude":"0.7271","population":"447","region":"75","departement":"86","arrondissement":"862","commune":"86059"},
+{"name":"Moulismes","latitude":"46.32972","longitude":"0.81417","population":"417","region":"75","departement":"86","arrondissement":"862","commune":"86170"},
+{"name":"Journet","latitude":"46.46361","longitude":"0.96778","population":"372","region":"75","departement":"86","arrondissement":"862","commune":"86118"},
+{"name":"Pindray","latitude":"46.49111","longitude":"0.81194","population":"254","region":"75","departement":"86","arrondissement":"862","commune":"86191"},
+{"name":"Haims","latitude":"46.5025","longitude":"0.91861","population":"239","region":"75","departement":"86","arrondissement":"862","commune":"86110"},
+{"name":"Bourg-Archambault","latitude":"46.3825","longitude":"1.00333","population":"193","region":"75","departement":"86","arrondissement":"862","commune":"86035"},
+{"name":"Plaisance","latitude":"46.33167","longitude":"0.87278","population":"181","region":"75","departement":"86","arrondissement":"862","commune":"86192"},
+{"name":"Saint-Léomer","latitude":"46.43639","longitude":"0.99417","population":"181","region":"75","departement":"86","arrondissement":"862","commune":"86230"},
+{"name":"Fleix","latitude":"46.555","longitude":"0.74556","population":"154","region":"75","departement":"86","arrondissement":"862","commune":"86098"},
+{"name":"Villemort","latitude":"46.55139","longitude":"0.92222","population":"113","region":"75","departement":"86","arrondissement":"862","commune":"86291"}
+]

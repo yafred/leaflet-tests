@@ -1,0 +1,20 @@
+[
+{"name":"Annemasse","latitude":"46.195","longitude":"6.23556","population":"31293","region":"84","departement":"74","arrondissement":"743","commune":"74012"},
+{"name":"Oyonnax","latitude":"46.25556","longitude":"5.655","population":"22884","region":"84","departement":"01","arrondissement":"014","commune":"01283"},
+{"name":"Bellegarde-sur-Valserine","latitude":"46.1075","longitude":"5.82583","population":"11679","region":"84","departement":"01","arrondissement":"014","commune":"01033"},
+{"name":"Saint-Julien-en-Genevois","latitude":"46.1439","longitude":"6.0848","population":"11598","region":"84","departement":"74","arrondissement":"743","commune":"74243"},
+{"name":"Saint-Claude","latitude":"46.38722","longitude":"5.86333","population":"11355","region":"27","departement":"39","arrondissement":"393","commune":"39478"},
+{"name":"Gaillard","latitude":"46.18559","longitude":"6.20779","population":"11144","region":"84","departement":"74","arrondissement":"743","commune":"74133"},
+{"name":"Gex","latitude":"46.33333","longitude":"6.05778","population":"9882","region":"84","departement":"01","arrondissement":"013","commune":"01173"},
+{"name":"Saint-Genis-Pouilly","latitude":"46.24333","longitude":"6.02139","population":"8627","region":"84","departement":"01","arrondissement":"013","commune":"01354"},
+{"name":"Ferney-Voltaire","latitude":"46.25583","longitude":"6.10806","population":"7965","region":"84","departement":"01","arrondissement":"013","commune":"01160"},
+{"name":"Divonne-les-Bains","latitude":"46.35667","longitude":"6.14278","population":"7926","region":"84","departement":"01","arrondissement":"013","commune":"01143"},
+{"name":"Ville-la-Grand","latitude":"46.20222","longitude":"6.24694","population":"7627","region":"84","departement":"74","arrondissement":"743","commune":"74305"},
+{"name":"Reignier-Ésery","latitude":"46.13444","longitude":"6.26833","population":"6589","region":"84","departement":"74","arrondissement":"743","commune":"74220"},
+{"name":"Vétraz-Monthoux","latitude":"46.17417","longitude":"6.255","population":"6470","region":"84","departement":"74","arrondissement":"743","commune":"74298"},
+{"name":"Ambilly","latitude":"46.1952","longitude":"6.2243","population":"5881","region":"84","departement":"74","arrondissement":"743","commune":"74008"},
+{"name":"Prévessin-Moëns","latitude":"46.2555","longitude":"6.0821","population":"5640","region":"84","departement":"01","arrondissement":"013","commune":"01313"},
+{"name":"Cranves-Sales","latitude":"46.18667","longitude":"6.29139","population":"5310","region":"84","departement":"74","arrondissement":"743","commune":"74094"},
+{"name":"Hauts de Bienne","latitude":"46.52194","longitude":"6.02222","population":"5240","region":"27","departement":"39","arrondissement":"393","commune":"39368"},
+{"name":"Thoiry","latitude":"46.2366","longitude":"5.9804","population":"5031","region":"84","departement":"01","arrondissement":"013","commune":"01419"}
+]

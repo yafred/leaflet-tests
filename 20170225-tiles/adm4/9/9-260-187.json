@@ -1,0 +1,9 @@
+[
+{"name":"Béziers","latitude":"43.34333","longitude":"3.21611","population":"70957","region":"76","departement":"34","arrondissement":"341","commune":"34032"},
+{"name":"Narbonne","latitude":"43.18472","longitude":"3.00361","population":"51227","region":"76","departement":"11","arrondissement":"113","commune":"11262"},
+{"name":"Agde","latitude":"43.31","longitude":"3.47528","population":"24031","region":"76","departement":"34","arrondissement":"341","commune":"34003"},
+{"name":"Pézenas","latitude":"43.45944","longitude":"3.42278","population":"8345","region":"76","departement":"34","arrondissement":"341","commune":"34199"},
+{"name":"Sérignan","latitude":"43.28","longitude":"3.2775","population":"6631","region":"76","departement":"34","arrondissement":"341","commune":"34299"},
+{"name":"Coursan","latitude":"43.2325","longitude":"3.05889","population":"6087","region":"76","departement":"11","arrondissement":"113","commune":"11106"},
+{"name":"Vias","latitude":"43.3125","longitude":"3.419","population":"5380","region":"76","departement":"34","arrondissement":"341","commune":"34332"}
+]

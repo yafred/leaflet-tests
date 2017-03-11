@@ -1,0 +1,13 @@
+[
+{"name":"Montélimar","latitude":"44.55861","longitude":"4.75083","population":"35495","region":"84","departement":"26","arrondissement":"262","commune":"26198"},
+{"name":"Orange","latitude":"44.1375","longitude":"4.80889","population":"28990","region":"93","departement":"84","arrondissement":"842","commune":"84087"},
+{"name":"Bagnols-sur-Cèze","latitude":"44.1625","longitude":"4.62","population":"18105","region":"76","departement":"30","arrondissement":"302","commune":"30028"},
+{"name":"Bollène","latitude":"44.28028","longitude":"4.74889","population":"13885","region":"93","departement":"84","arrondissement":"842","commune":"84019"},
+{"name":"Pierrelatte","latitude":"44.3775","longitude":"4.69611","population":"13100","region":"84","departement":"26","arrondissement":"262","commune":"26235"},
+{"name":"Pont-Saint-Esprit","latitude":"44.25639","longitude":"4.64833","population":"10233","region":"76","departement":"30","arrondissement":"302","commune":"30202"},
+{"name":"Saint-Paul-Trois-Châteaux","latitude":"44.34889","longitude":"4.76861","population":"8590","region":"84","departement":"26","arrondissement":"262","commune":"26324"},
+{"name":"Le Teil","latitude":"44.5455","longitude":"4.6826","population":"7986","region":"84","departement":"07","arrondissement":"072","commune":"07319"},
+{"name":"Bourg-Saint-Andéol","latitude":"44.37333","longitude":"4.64417","population":"7293","region":"84","departement":"07","arrondissement":"072","commune":"07042"},
+{"name":"Laudun-l'Ardoise","latitude":"44.105","longitude":"4.6575","population":"5617","region":"76","departement":"30","arrondissement":"302","commune":"30141"},
+{"name":"Donzère","latitude":"44.44361","longitude":"4.71","population":"5203","region":"84","departement":"26","arrondissement":"262","commune":"26116"}
+]

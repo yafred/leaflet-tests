@@ -1,0 +1,11 @@
+[
+{"name":"Thonon-les-Bains","latitude":"46.37056","longitude":"6.47972","population":"33516","region":"84","departement":"74","arrondissement":"744","commune":"74281"},
+{"name":"Annemasse","latitude":"46.195","longitude":"6.23556","population":"31293","region":"84","departement":"74","arrondissement":"743","commune":"74012"},
+{"name":"Oyonnax","latitude":"46.25556","longitude":"5.655","population":"22884","region":"84","departement":"01","arrondissement":"014","commune":"01283"},
+{"name":"Pontarlier","latitude":"46.90611","longitude":"6.35472","population":"18267","region":"27","departement":"25","arrondissement":"253","commune":"25462"},
+{"name":"Bonneville","latitude":"46.07889","longitude":"6.40083","population":"11874","region":"84","departement":"74","arrondissement":"742","commune":"74042"},
+{"name":"Bellegarde-sur-Valserine","latitude":"46.1075","longitude":"5.82583","population":"11679","region":"84","departement":"01","arrondissement":"014","commune":"01033"},
+{"name":"Saint-Julien-en-Genevois","latitude":"46.1439","longitude":"6.0848","population":"11598","region":"84","departement":"74","arrondissement":"743","commune":"74243"},
+{"name":"Saint-Claude","latitude":"46.38722","longitude":"5.86333","population":"11355","region":"27","departement":"39","arrondissement":"393","commune":"39478"},
+{"name":"Gaillard","latitude":"46.18559","longitude":"6.20779","population":"11144","region":"84","departement":"74","arrondissement":"743","commune":"74133"}
+]

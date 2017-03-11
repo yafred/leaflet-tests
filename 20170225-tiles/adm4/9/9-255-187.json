@@ -1,0 +1,11 @@
+[
+{"name":"Pau","latitude":"43.30083","longitude":"-0.37","population":"82763","region":"75","departement":"64","arrondissement":"643","commune":"64445"},
+{"name":"Lourdes","latitude":"43.095","longitude":"-0.04528","population":"15127","region":"76","departement":"65","arrondissement":"651","commune":"65286"},
+{"name":"Billère","latitude":"43.3025","longitude":"-0.39722","population":"12955","region":"75","departement":"64","arrondissement":"643","commune":"64129"},
+{"name":"Lons","latitude":"43.315","longitude":"-0.41083","population":"11953","region":"75","departement":"64","arrondissement":"643","commune":"64348"},
+{"name":"Oloron-Sainte-Marie","latitude":"43.19417","longitude":"-0.60667","population":"11029","region":"75","departement":"64","arrondissement":"642","commune":"64422"},
+{"name":"Lescar","latitude":"43.3325","longitude":"-0.43583","population":"9794","region":"75","departement":"64","arrondissement":"643","commune":"64335"},
+{"name":"Mourenx","latitude":"43.37833","longitude":"-0.60806","population":"7237","region":"75","departement":"64","arrondissement":"643","commune":"64410"},
+{"name":"Jurançon","latitude":"43.2873","longitude":"-0.3871","population":"7000","region":"75","departement":"64","arrondissement":"643","commune":"64284"},
+{"name":"Gan","latitude":"43.22861","longitude":"-0.3875","population":"5410","region":"75","departement":"64","arrondissement":"643","commune":"64230"}
+]

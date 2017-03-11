@@ -1,0 +1,23 @@
+[
+{"name":"Rouen","latitude":"49.44306","longitude":"1.1025","population":"110688","region":"28","departement":"76","arrondissement":"763","commune":"76540"},
+{"name":"Sotteville-lès-Rouen","latitude":"49.40861","longitude":"1.08917","population":"29342","region":"28","departement":"76","arrondissement":"763","commune":"76681"},
+{"name":"Le Grand-Quevilly","latitude":"49.4064","longitude":"1.0529","population":"25160","region":"28","departement":"76","arrondissement":"763","commune":"76322"},
+{"name":"Le Petit-Quevilly","latitude":"49.43056","longitude":"1.05278","population":"21745","region":"28","departement":"76","arrondissement":"763","commune":"76498"},
+{"name":"Mont-Saint-Aignan","latitude":"49.4625","longitude":"1.08722","population":"19734","region":"28","departement":"76","arrondissement":"763","commune":"76451"},
+{"name":"Canteleu","latitude":"49.44028","longitude":"1.02528","population":"14701","region":"28","departement":"76","arrondissement":"763","commune":"76157"},
+{"name":"Bois-Guillaume","latitude":"49.46056","longitude":"1.10806","population":"12872","region":"28","departement":"76","arrondissement":"763","commune":"76108"},
+{"name":"Barentin","latitude":"49.54444","longitude":"0.95361","population":"12153","region":"28","departement":"76","arrondissement":"763","commune":"76057"},
+{"name":"Yvetot","latitude":"49.61694","longitude":"0.75306","population":"11935","region":"28","departement":"76","arrondissement":"763","commune":"76758"},
+{"name":"Maromme","latitude":"49.482","longitude":"1.043","population":"11408","region":"28","departement":"76","arrondissement":"763","commune":"76410"},
+{"name":"Déville-lès-Rouen","latitude":"49.46972","longitude":"1.04972","population":"10018","region":"28","departement":"76","arrondissement":"763","commune":"76216"},
+{"name":"Darnétal","latitude":"49.44472","longitude":"1.15111","population":"9627","region":"28","departement":"76","arrondissement":"763","commune":"76212"},
+{"name":"Petit-Couronne","latitude":"49.3857","longitude":"1.0286","population":"9159","region":"28","departement":"76","arrondissement":"763","commune":"76497"},
+{"name":"Bihorel","latitude":"49.455","longitude":"1.1168","population":"8461","region":"28","departement":"76","arrondissement":"763","commune":"76095"},
+{"name":"Notre-Dame-de-Bondeville","latitude":"49.48833","longitude":"1.04833","population":"7058","region":"28","departement":"76","arrondissement":"763","commune":"76474"},
+{"name":"Le Mesnil-Esnard","latitude":"49.41083","longitude":"1.14194","population":"6853","region":"28","departement":"76","arrondissement":"763","commune":"76429"},
+{"name":"Bonsecours","latitude":"49.42778","longitude":"1.12778","population":"6668","region":"28","departement":"76","arrondissement":"763","commune":"76103"},
+{"name":"Pavilly","latitude":"49.56833","longitude":"0.95361","population":"6169","region":"28","departement":"76","arrondissement":"763","commune":"76495"},
+{"name":"Malaunay","latitude":"49.52611","longitude":"1.04028","population":"5893","region":"28","departement":"76","arrondissement":"763","commune":"76402"},
+{"name":"Franqueville-Saint-Pierre","latitude":"49.401","longitude":"1.1807","population":"5652","region":"28","departement":"76","arrondissement":"763","commune":"76475"},
+{"name":"Le Trait","latitude":"49.4883","longitude":"0.8063","population":"5305","region":"28","departement":"76","arrondissement":"763","commune":"76709"}
+]

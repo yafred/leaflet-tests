@@ -1,0 +1,13 @@
+[
+{"name":"Cannes","latitude":"43.5525","longitude":"7.02139","population":"73372","region":"93","departement":"06","arrondissement":"061","commune":"06029"},
+{"name":"Fréjus","latitude":"43.43306","longitude":"6.73556","population":"52203","region":"93","departement":"83","arrondissement":"831","commune":"83061"},
+{"name":"Le Cannet","latitude":"43.57611","longitude":"7.01861","population":"41725","region":"93","departement":"06","arrondissement":"061","commune":"06030"},
+{"name":"Saint-Raphaël","latitude":"43.42472","longitude":"6.76778","population":"34269","region":"93","departement":"83","arrondissement":"831","commune":"83118"},
+{"name":"Mandelieu-la-Napoule","latitude":"43.5456","longitude":"6.938","population":"21764","region":"93","departement":"06","arrondissement":"061","commune":"06079"},
+{"name":"Puget-sur-Argens","latitude":"43.45583","longitude":"6.68417","population":"6722","region":"93","departement":"83","arrondissement":"831","commune":"83099"},
+{"name":"La Roquette-sur-Siagne","latitude":"43.5798","longitude":"6.956","population":"4921","region":"93","departement":"06","arrondissement":"061","commune":"06108"},
+{"name":"Les Adrets-de-l'Estérel","latitude":"43.52556","longitude":"6.81417","population":"2656","region":"93","departement":"83","arrondissement":"831","commune":"83001"},
+{"name":"Bagnols-en-Forêt","latitude":"43.53778","longitude":"6.69833","population":"2406","region":"93","departement":"83","arrondissement":"831","commune":"83008"},
+{"name":"Saint-Paul-en-Forêt","latitude":"43.56722","longitude":"6.69194","population":"1616","region":"93","departement":"83","arrondissement":"831","commune":"83117"},
+{"name":"Théoule-sur-Mer","latitude":"43.50694","longitude":"6.94","population":"1559","region":"93","departement":"06","arrondissement":"061","commune":"06138"}
+]

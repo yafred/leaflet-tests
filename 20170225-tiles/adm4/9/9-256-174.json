@@ -1,0 +1,13 @@
+[
+{"name":"Le Havre","latitude":"49.49889","longitude":"0.12111","population":"177259","region":"28","departement":"76","arrondissement":"762","commune":"76351"},
+{"name":"Fécamp","latitude":"49.7575","longitude":"0.37917","population":"19348","region":"28","departement":"76","arrondissement":"762","commune":"76259"},
+{"name":"Montivilliers","latitude":"49.54611","longitude":"0.18806","population":"16454","region":"28","departement":"76","arrondissement":"762","commune":"76447"},
+{"name":"Bolbec","latitude":"49.57222","longitude":"0.4725","population":"11654","region":"28","departement":"76","arrondissement":"762","commune":"76114"},
+{"name":"Lillebonne","latitude":"49.52083","longitude":"0.5375","population":"9190","region":"28","departement":"76","arrondissement":"762","commune":"76384"},
+{"name":"Gonfreville-l'Orcher","latitude":"49.50528","longitude":"0.23306","population":"9026","region":"28","departement":"76","arrondissement":"762","commune":"76305"},
+{"name":"Honfleur","latitude":"49.41889","longitude":"0.23306","population":"8163","region":"28","departement":"14","arrondissement":"143","commune":"14333"},
+{"name":"Port-Jérôme-sur-Seine","latitude":"49.48917","longitude":"0.57111","population":"8160","region":"28","departement":"76","arrondissement":"762","commune":"76476"},
+{"name":"Harfleur","latitude":"49.50667","longitude":"0.19806","population":"8120","region":"28","departement":"76","arrondissement":"762","commune":"76341"},
+{"name":"Sainte-Adresse","latitude":"49.50639","longitude":"0.08333","population":"7601","region":"28","departement":"76","arrondissement":"762","commune":"76552"},
+{"name":"Octeville-sur-Mer","latitude":"49.55583","longitude":"0.11694","population":"5667","region":"28","departement":"76","arrondissement":"762","commune":"76481"}
+]

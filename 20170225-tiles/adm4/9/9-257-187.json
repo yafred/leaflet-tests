@@ -1,0 +1,14 @@
+[
+{"name":"Muret","latitude":"43.46028","longitude":"1.32583","population":"23356","region":"76","departement":"31","arrondissement":"311","commune":"31395"},
+{"name":"Plaisance-du-Touch","latitude":"43.56556","longitude":"1.29639","population":"16148","region":"76","departement":"31","arrondissement":"313","commune":"31424"},
+{"name":"Cugnaux","latitude":"43.53778","longitude":"1.34361","population":"15862","region":"76","departement":"31","arrondissement":"313","commune":"31157"},
+{"name":"Saint-Gaudens","latitude":"43.10806","longitude":"0.72333","population":"11225","region":"76","departement":"31","arrondissement":"312","commune":"31483"},
+{"name":"Fonsorbes","latitude":"43.53611","longitude":"1.23111","population":"11037","region":"76","departement":"31","arrondissement":"311","commune":"31187"},
+{"name":"Portet-sur-Garonne","latitude":"43.52194","longitude":"1.40611","population":"9597","region":"76","departement":"31","arrondissement":"311","commune":"31433"},
+{"name":"Villeneuve-Tolosane","latitude":"43.52361","longitude":"1.34167","population":"8609","region":"76","departement":"31","arrondissement":"313","commune":"31588"},
+{"name":"Saint-Lys","latitude":"43.51417","longitude":"1.1775","population":"8397","region":"76","departement":"31","arrondissement":"311","commune":"31499"},
+{"name":"Seysses","latitude":"43.49806","longitude":"1.3125","population":"7750","region":"76","departement":"31","arrondissement":"311","commune":"31547"},
+{"name":"Frouzins","latitude":"43.51611","longitude":"1.32472","population":"7585","region":"76","departement":"31","arrondissement":"311","commune":"31203"},
+{"name":"La Salvetat-Saint-Gilles","latitude":"43.5762","longitude":"1.2725","population":"6820","region":"76","departement":"31","arrondissement":"313","commune":"31526"},
+{"name":"Carbonne","latitude":"43.29722","longitude":"1.21917","population":"5236","region":"76","departement":"31","arrondissement":"311","commune":"31107"}
+]

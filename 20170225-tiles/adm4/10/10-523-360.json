@@ -1,0 +1,23 @@
+[
+{"name":"Étang-sur-Arroux","latitude":"46.86611","longitude":"4.18944","population":"1953","region":"27","departement":"71","arrondissement":"711","commune":"71192"},
+{"name":"Laizy","latitude":"46.90806","longitude":"4.20056","population":"639","region":"27","departement":"71","arrondissement":"711","commune":"71251"},
+{"name":"La Grande-Verrière","latitude":"46.96472","longitude":"4.14028","population":"530","region":"27","departement":"71","arrondissement":"711","commune":"71223"},
+{"name":"Saint-Léger-sous-Beuvray","latitude":"46.92333","longitude":"4.10111","population":"481","region":"27","departement":"71","arrondissement":"711","commune":"71440"},
+{"name":"Villapourçon","latitude":"46.94917","longitude":"3.95972","population":"452","region":"27","departement":"58","arrondissement":"581","commune":"58309"},
+{"name":"La Celle-en-Morvan","latitude":"47.0124","longitude":"4.1831","population":"442","region":"27","departement":"71","arrondissement":"711","commune":"71509"},
+{"name":"Millay","latitude":"46.84222","longitude":"3.99972","population":"437","region":"27","departement":"58","arrondissement":"581","commune":"58168"},
+{"name":"Chiddes","latitude":"46.8612","longitude":"3.941","population":"329","region":"27","departement":"58","arrondissement":"581","commune":"58074"},
+{"name":"Saint-Léger-de-Fougeret","latitude":"47.02167","longitude":"3.89778","population":"289","region":"27","departement":"58","arrondissement":"581","commune":"58249"},
+{"name":"Larochemillay","latitude":"46.87722","longitude":"4.00222","population":"285","region":"27","departement":"58","arrondissement":"581","commune":"58140"},
+{"name":"Roussillon-en-Morvan","latitude":"47.0268","longitude":"4.1201","population":"280","region":"27","departement":"71","arrondissement":"711","commune":"71376"},
+{"name":"Saint-Didier-sur-Arroux","latitude":"46.83333","longitude":"4.11528","population":"245","region":"27","departement":"71","arrondissement":"711","commune":"71407"},
+{"name":"Saint-Prix","latitude":"46.95611","longitude":"4.07194","population":"213","region":"27","departement":"71","arrondissement":"711","commune":"71472"},
+{"name":"La Comelle","latitude":"46.87944","longitude":"4.11194","population":"185","region":"27","departement":"71","arrondissement":"711","commune":"71142"},
+{"name":"Onlay","latitude":"46.96556","longitude":"3.89639","population":"162","region":"27","departement":"58","arrondissement":"581","commune":"58199"},
+{"name":"Poil","latitude":"46.86741","longitude":"4.07299","population":"156","region":"27","departement":"58","arrondissement":"581","commune":"58211"},
+{"name":"Thil-sur-Arroux","latitude":"46.80139","longitude":"4.095","population":"151","region":"27","departement":"71","arrondissement":"711","commune":"71537"},
+{"name":"Saint-Nizier-sur-Arroux","latitude":"46.80444","longitude":"4.13889","population":"119","region":"27","departement":"71","arrondissement":"711","commune":"71466"},
+{"name":"Fâchin","latitude":"47.00556","longitude":"3.96778","population":"115","region":"27","departement":"58","arrondissement":"581","commune":"58111"},
+{"name":"Glux-en-Glenne","latitude":"46.9566","longitude":"4.031","population":"105","region":"27","departement":"58","arrondissement":"581","commune":"58128"},
+{"name":"Avrée","latitude":"46.81861","longitude":"3.86944","population":"94","region":"27","departement":"58","arrondissement":"581","commune":"58019"}
+]

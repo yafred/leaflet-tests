@@ -1,0 +1,10 @@
+[
+{"name":"Pamiers","latitude":"43.11639","longitude":"1.61083","population":"15383","region":"76","departement":"09","arrondissement":"092","commune":"09225"},
+{"name":"Castelnaudary","latitude":"43.31806","longitude":"1.95389","population":"11753","region":"76","departement":"11","arrondissement":"111","commune":"11076"},
+{"name":"Ramonville-Saint-Agne","latitude":"43.54611","longitude":"1.47556","population":"11588","region":"76","departement":"31","arrondissement":"313","commune":"31446"},
+{"name":"Castanet-Tolosan","latitude":"43.51556","longitude":"1.49806","population":"11049","region":"76","departement":"31","arrondissement":"313","commune":"31113"},
+{"name":"Saint-Orens-de-Gameville","latitude":"43.55139","longitude":"1.53417","population":"10898","region":"76","departement":"31","arrondissement":"313","commune":"31506"},
+{"name":"Revel","latitude":"43.45861","longitude":"2.00417","population":"9253","region":"76","departement":"31","arrondissement":"313","commune":"31451"},
+{"name":"Auterive","latitude":"43.35028","longitude":"1.47472","population":"9070","region":"76","departement":"31","arrondissement":"311","commune":"31033"},
+{"name":"Escalquens","latitude":"43.51778","longitude":"1.56083","population":"5809","region":"76","departement":"31","arrondissement":"313","commune":"31169"}
+]

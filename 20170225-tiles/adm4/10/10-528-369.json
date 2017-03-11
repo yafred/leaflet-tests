@@ -1,0 +1,22 @@
+[
+{"name":"Mens","latitude":"44.81667","longitude":"5.75","population":"1404","region":"84","departement":"38","arrondissement":"381","commune":"38226"},
+{"name":"Le Dévoluy","latitude":"44.6925","longitude":"5.94111","population":"566","region":"93","departement":"05","arrondissement":"052","commune":"05139"},
+{"name":"Lus-la-Croix-Haute","latitude":"44.66528","longitude":"5.70556","population":"507","region":"84","departement":"26","arrondissement":"261","commune":"26168"},
+{"name":"Corps","latitude":"44.81833","longitude":"5.94694","population":"493","region":"84","departement":"38","arrondissement":"381","commune":"38128"},
+{"name":"Saint-Baudille-et-Pipet","latitude":"44.78417","longitude":"5.76861","population":"259","region":"84","departement":"38","arrondissement":"381","commune":"38366"},
+{"name":"Le Monestier-du-Percy","latitude":"44.79417","longitude":"5.65889","population":"230","region":"84","departement":"38","arrondissement":"381","commune":"38243"},
+{"name":"Lalley","latitude":"44.75778","longitude":"5.67611","population":"205","region":"84","departement":"38","arrondissement":"381","commune":"38204"},
+{"name":"Cordéac","latitude":"44.82722","longitude":"5.83806","population":"205","region":"84","departement":"38","arrondissement":"381","commune":"38125"},
+{"name":"Saint-Maurice-en-Trièves","latitude":"44.7642","longitude":"5.6645","population":"176","region":"84","departement":"38","arrondissement":"381","commune":"38424"},
+{"name":"Cornillon-en-Trièves","latitude":"44.82944","longitude":"5.7175","population":"174","region":"84","departement":"38","arrondissement":"381","commune":"38127"},
+{"name":"Tréminis","latitude":"44.7475","longitude":"5.76889","population":"169","region":"84","departement":"38","arrondissement":"381","commune":"38514"},
+{"name":"Prébois","latitude":"44.78944","longitude":"5.695","population":"160","region":"84","departement":"38","arrondissement":"381","commune":"38321"},
+{"name":"Pellafol","latitude":"44.7975","longitude":"5.9075","population":"136","region":"84","departement":"38","arrondissement":"381","commune":"38299"},
+{"name":"Percy","latitude":"44.8011","longitude":"5.6501","population":"130","region":"84","departement":"38","arrondissement":"381","commune":"38301"},
+{"name":"Saint-Julien-en-Beauchêne","latitude":"44.61611","longitude":"5.70972","population":"126","region":"93","departement":"05","arrondissement":"052","commune":"05146"},
+{"name":"Les Côtes-de-Corps","latitude":"44.8326","longitude":"5.9237","population":"67","region":"84","departement":"38","arrondissement":"381","commune":"38132"},
+{"name":"Quet-en-Beaumont","latitude":"44.83472","longitude":"5.87361","population":"65","region":"84","departement":"38","arrondissement":"381","commune":"38329"},
+{"name":"Ambel","latitude":"44.8047","longitude":"5.9309","population":"25","region":"84","departement":"38","arrondissement":"381","commune":"38008"},
+{"name":"Beaufin","latitude":"44.78778","longitude":"5.96","population":"23","region":"84","departement":"38","arrondissement":"381","commune":"38031"},
+{"name":"Monestier-d'Ambel","latitude":"44.77778","longitude":"5.92694","population":"22","region":"84","departement":"38","arrondissement":"381","commune":"38241"}
+]

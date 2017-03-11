@@ -1,0 +1,11 @@
+[
+{"name":"Amiens","latitude":"49.89194","longitude":"2.29778","population":"133998","region":"32","departement":"80","arrondissement":"802","commune":"80021"},
+{"name":"Arras","latitude":"50.2893","longitude":"2.7809","population":"42049","region":"32","departement":"62","arrondissement":"621","commune":"62041"},
+{"name":"Albert","latitude":"50.00194","longitude":"2.65222","population":"9959","region":"32","departement":"80","arrondissement":"804","commune":"80016"},
+{"name":"Achicourt","latitude":"50.27333","longitude":"2.75944","population":"7727","region":"32","departement":"62","arrondissement":"621","commune":"62004"},
+{"name":"Doullens","latitude":"50.15667","longitude":"2.34028","population":"6569","region":"32","departement":"80","arrondissement":"802","commune":"80253"},
+{"name":"Corbie","latitude":"49.90889","longitude":"2.50722","population":"6370","region":"32","departement":"80","arrondissement":"802","commune":"80212"},
+{"name":"Dainville","latitude":"50.28194","longitude":"2.72722","population":"5504","region":"32","departement":"62","arrondissement":"621","commune":"62263"},
+{"name":"Longueau","latitude":"49.87028","longitude":"2.35611","population":"5439","region":"32","departement":"80","arrondissement":"802","commune":"80489"},
+{"name":"Beaurains","latitude":"50.2632","longitude":"2.789","population":"5076","region":"32","departement":"62","arrondissement":"621","commune":"62099"}
+]

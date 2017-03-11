@@ -73,7 +73,7 @@ function mapMoved(e) {
 			}).done(function(data){
 				processJSON(data);
 			});
-			document.getElementById("tiles-loaded").innerHTML += '<img style="width:128px; height:128px; border-right:1px solid blue; border-bottom:1px solid blue;" src="//a.tile.openstreetmap.org/' + dataZoom + '/' + x + '/' + y + '.png" />';
+			document.getElementById("tiles-loaded").innerHTML += '<img style="width:128px; height:128px; border-right:1px solid blue; border-bottom:1px solid blue;" src="https://a.tile.openstreetmap.org/' + dataZoom + '/' + x + '/' + y + '.png" />';
 		}		
 	}
 }

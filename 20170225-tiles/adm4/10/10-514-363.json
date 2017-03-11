@@ -1,0 +1,22 @@
+[
+{"name":"Bellac","latitude":"46.12194","longitude":"1.04944","population":"4352","region":"75","departement":"87","arrondissement":"871","commune":"87011"},
+{"name":"Peyrat-de-Bellac","latitude":"46.14222","longitude":"1.03694","population":"1131","region":"75","departement":"87","arrondissement":"871","commune":"87116"},
+{"name":"Bussière-Poitevine","latitude":"46.23556","longitude":"0.905","population":"937","region":"75","departement":"87","arrondissement":"871","commune":"87028"},
+{"name":"Val d'Issoire","latitude":"46.1075","longitude":"0.91083","population":"866","region":"75","departement":"87","arrondissement":"871","commune":"87097"},
+{"name":"Adriers","latitude":"46.25694","longitude":"0.7975","population":"729","region":"75","departement":"86","arrondissement":"862","commune":"86001"},
+{"name":"Saint-Bonnet-de-Bellac","latitude":"46.16861","longitude":"0.95444","population":"536","region":"75","departement":"87","arrondissement":"871","commune":"87139"},
+{"name":"Abzac","latitude":"46.10278","longitude":"0.70417","population":"504","region":"75","departement":"16","arrondissement":"163","commune":"16001"},
+{"name":"Oradour-Saint-Genest","latitude":"46.23833","longitude":"1.035","population":"395","region":"75","departement":"87","arrondissement":"871","commune":"87109"},
+{"name":"Oradour-Fanais","latitude":"46.12083","longitude":"0.78361","population":"375","region":"75","departement":"16","arrondissement":"163","commune":"16249"},
+{"name":"Darnac","latitude":"46.22333","longitude":"0.95972","population":"369","region":"75","departement":"87","arrondissement":"871","commune":"87055"},
+{"name":"Saint-Barbant","latitude":"46.17194","longitude":"0.84944","population":"357","region":"75","departement":"87","arrondissement":"871","commune":"87136"},
+{"name":"Luchapt","latitude":"46.1763","longitude":"0.7829","population":"293","region":"75","departement":"86","arrondissement":"862","commune":"86138"},
+{"name":"Saint-Sornin-la-Marche","latitude":"46.1825","longitude":"0.98944","population":"258","region":"75","departement":"87","arrondissement":"871","commune":"87179"},
+{"name":"Asnières-sur-Blour","latitude":"46.16417","longitude":"0.80028","population":"214","region":"75","departement":"86","arrondissement":"862","commune":"86011"},
+{"name":"Mouterre-sur-Blourde","latitude":"46.20194","longitude":"0.75417","population":"180","region":"75","departement":"86","arrondissement":"862","commune":"86172"},
+{"name":"La Croix-sur-Gartempe","latitude":"46.16056","longitude":"0.99","population":"179","region":"75","departement":"87","arrondissement":"871","commune":"87052"},
+{"name":"Thiat","latitude":"46.26667","longitude":"0.97417","population":"178","region":"75","departement":"87","arrondissement":"871","commune":"87196"},
+{"name":"Gajoubert","latitude":"46.11333","longitude":"0.83056","population":"171","region":"75","departement":"87","arrondissement":"871","commune":"87069"},
+{"name":"Saint-Martial-sur-Isop","latitude":"46.16667","longitude":"0.85","population":"141","region":"75","departement":"87","arrondissement":"871","commune":"87163"},
+{"name":"Nérignac","latitude":"46.29472","longitude":"0.72722","population":"141","region":"75","departement":"86","arrondissement":"862","commune":"86176"}
+]

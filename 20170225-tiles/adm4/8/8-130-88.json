@@ -1,0 +1,11 @@
+[
+{"name":"Troyes","latitude":"48.29889","longitude":"4.07806","population":"61188","region":"44","departement":"10","arrondissement":"103","commune":"10387"},
+{"name":"Sens","latitude":"48.19722","longitude":"3.28333","population":"25885","region":"27","departement":"89","arrondissement":"893","commune":"89387"},
+{"name":"Montereau-Fault-Yonne","latitude":"48.38306","longitude":"2.94806","population":"16266","region":"11","departement":"77","arrondissement":"773","commune":"77305"},
+{"name":"Coulommiers","latitude":"48.81556","longitude":"3.08361","population":"14163","region":"11","departement":"77","arrondissement":"771","commune":"77131"},
+{"name":"Romilly-sur-Seine","latitude":"48.51583","longitude":"3.72667","population":"13758","region":"44","departement":"10","arrondissement":"102","commune":"10323"},
+{"name":"La Chapelle-Saint-Luc","latitude":"48.312","longitude":"4.0454","population":"13463","region":"44","departement":"10","arrondissement":"103","commune":"10081"},
+{"name":"Provins","latitude":"48.55889","longitude":"3.29944","population":"12349","region":"11","departement":"77","arrondissement":"773","commune":"77379"},
+{"name":"Saint-André-les-Vergers","latitude":"48.27972","longitude":"4.05389","population":"11296","region":"44","departement":"10","arrondissement":"103","commune":"10333"},
+{"name":"Sainte-Savine","latitude":"48.29472","longitude":"4.04889","population":"10176","region":"44","departement":"10","arrondissement":"103","commune":"10362"}
+]

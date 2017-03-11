@@ -1,0 +1,18 @@
+[
+{"name":"Orléans","latitude":"47.9025","longitude":"1.9043","population":"113224","region":"24","departement":"45","arrondissement":"452","commune":"45234"},
+{"name":"Fleury-les-Aubrais","latitude":"47.93194","longitude":"1.92111","population":"21118","region":"24","departement":"45","arrondissement":"452","commune":"45147"},
+{"name":"Olivet","latitude":"47.86306","longitude":"1.89972","population":"19806","region":"24","departement":"45","arrondissement":"452","commune":"45232"},
+{"name":"Saint-Jean-de-Braye","latitude":"47.9124","longitude":"1.9718","population":"19102","region":"24","departement":"45","arrondissement":"452","commune":"45284"},
+{"name":"Saint-Jean-de-la-Ruelle","latitude":"47.91306","longitude":"1.87333","population":"16628","region":"24","departement":"45","arrondissement":"452","commune":"45285"},
+{"name":"Saran","latitude":"47.95139","longitude":"1.88028","population":"15240","region":"24","departement":"45","arrondissement":"452","commune":"45302"},
+{"name":"La Chapelle-Saint-Mesmin","latitude":"47.88972","longitude":"1.83972","population":"9515","region":"24","departement":"45","arrondissement":"452","commune":"45075"},
+{"name":"Saint-Jean-le-Blanc","latitude":"47.89194","longitude":"1.91722","population":"8234","region":"24","departement":"45","arrondissement":"452","commune":"45286"},
+{"name":"Chécy","latitude":"47.89361","longitude":"2.02694","population":"8201","region":"24","departement":"45","arrondissement":"452","commune":"45089"},
+{"name":"Ingré","latitude":"47.92056","longitude":"1.82417","population":"7885","region":"24","departement":"45","arrondissement":"452","commune":"45169"},
+{"name":"Beaugency","latitude":"47.77833","longitude":"1.63167","population":"7738","region":"24","departement":"45","arrondissement":"452","commune":"45028"},
+{"name":"Saint-Denis-en-Val","latitude":"47.87722","longitude":"1.96","population":"7169","region":"24","departement":"45","arrondissement":"452","commune":"45274"},
+{"name":"La Ferté-Saint-Aubin","latitude":"47.71722","longitude":"1.94139","population":"7105","region":"24","departement":"45","arrondissement":"452","commune":"45146"},
+{"name":"Meung-sur-Loire","latitude":"47.82861","longitude":"1.69833","population":"6113","region":"24","departement":"45","arrondissement":"452","commune":"45203"},
+{"name":"Mer","latitude":"47.69861","longitude":"1.50778","population":"6053","region":"24","departement":"41","arrondissement":"411","commune":"41136"},
+{"name":"Saint-Pryvé-Saint-Mesmin","latitude":"47.88083","longitude":"1.86778","population":"5224","region":"24","departement":"45","arrondissement":"452","commune":"45298"}
+]

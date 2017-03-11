@@ -1,0 +1,15 @@
+[
+{"name":"Tours","latitude":"47.39278","longitude":"0.68833","population":"135218","region":"24","departement":"37","arrondissement":"372","commune":"37261"},
+{"name":"Blois","latitude":"47.59306","longitude":"1.32722","population":"46013","region":"24","departement":"41","arrondissement":"411","commune":"41018"},
+{"name":"Joué-lès-Tours","latitude":"47.35056","longitude":"0.66167","population":"36000","region":"24","departement":"37","arrondissement":"372","commune":"37122"},
+{"name":"Vendôme","latitude":"47.79278","longitude":"1.06556","population":"16971","region":"24","departement":"41","arrondissement":"412","commune":"41269"},
+{"name":"Saint-Cyr-sur-Loire","latitude":"47.40278","longitude":"0.67806","population":"15930","region":"24","departement":"37","arrondissement":"372","commune":"37214"},
+{"name":"Saint-Pierre-des-Corps","latitude":"47.39083","longitude":"0.72806","population":"15370","region":"24","departement":"37","arrondissement":"372","commune":"37233"},
+{"name":"Saint-Avertin","latitude":"47.36667","longitude":"0.72667","population":"13946","region":"24","departement":"37","arrondissement":"372","commune":"37208"},
+{"name":"Amboise","latitude":"47.41139","longitude":"0.9825","population":"12505","region":"24","departement":"37","arrondissement":"372","commune":"37003"},
+{"name":"Allonnes","latitude":"47.96861","longitude":"0.16056","population":"11128","region":"52","departement":"72","arrondissement":"723","commune":"72003"},
+{"name":"Chambray-lès-Tours","latitude":"47.3375","longitude":"0.71389","population":"10781","region":"24","departement":"37","arrondissement":"372","commune":"37050"},
+{"name":"Fondettes","latitude":"47.40417","longitude":"0.59889","population":"10466","region":"24","departement":"37","arrondissement":"372","commune":"37109"},
+{"name":"Montlouis-sur-Loire","latitude":"47.38833","longitude":"0.82722","population":"10448","region":"24","departement":"37","arrondissement":"372","commune":"37156"},
+{"name":"La Riche","latitude":"47.38917","longitude":"0.66056","population":"10070","region":"24","departement":"37","arrondissement":"372","commune":"37195"}
+]

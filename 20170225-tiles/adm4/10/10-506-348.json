@@ -1,0 +1,16 @@
+[
+{"name":"Beaumont-Hague","latitude":"49.66361","longitude":"-1.83722","population":"1425","region":"28","departement":"50","arrondissement":"502","commune":"50041"},
+{"name":"Gréville-Hague","latitude":"49.67472","longitude":"-1.80083","population":"773","region":"28","departement":"50","arrondissement":"502","commune":"50220"},
+{"name":"Sainte-Croix-Hague","latitude":"49.63861","longitude":"-1.77333","population":"737","region":"28","departement":"50","arrondissement":"502","commune":"50460"},
+{"name":"Biville","latitude":"49.61278","longitude":"-1.8225","population":"543","region":"28","departement":"50","arrondissement":"502","commune":"50057"},
+{"name":"Omonville-la-Rogue","latitude":"49.7025","longitude":"-1.84333","population":"534","region":"28","departement":"50","arrondissement":"502","commune":"50386"},
+{"name":"Jobourg","latitude":"49.68278","longitude":"-1.90389","population":"479","region":"28","departement":"50","arrondissement":"502","commune":"50257"},
+{"name":"Saint-Germain-des-Vaux","latitude":"49.7124","longitude":"-1.9189","population":"408","region":"28","departement":"50","arrondissement":"502","commune":"50477"},
+{"name":"Vauville","latitude":"49.6377","longitude":"-1.846","population":"388","region":"28","departement":"50","arrondissement":"502","commune":"50623"},
+{"name":"Digulleville","latitude":"49.69889","longitude":"-1.85917","population":"295","region":"28","departement":"50","arrondissement":"502","commune":"50163"},
+{"name":"Auderville","latitude":"49.71194","longitude":"-1.93139","population":"276","region":"28","departement":"50","arrondissement":"502","commune":"50020"},
+{"name":"Branville-Hague","latitude":"49.65528","longitude":"-1.78528","population":"170","region":"28","departement":"50","arrondissement":"502","commune":"50073"},
+{"name":"Herqueville","latitude":"49.6675","longitude":"-1.8775","population":"156","region":"28","departement":"50","arrondissement":"502","commune":"50242"},
+{"name":"Omonville-la-Petite","latitude":"49.7","longitude":"-1.88333","population":"126","region":"28","departement":"50","arrondissement":"502","commune":"50385"},
+{"name":"Éculleville","latitude":"49.68222","longitude":"-1.82167","population":"42","region":"28","departement":"50","arrondissement":"502","commune":"50171"}
+]

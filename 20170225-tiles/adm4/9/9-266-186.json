@@ -1,0 +1,19 @@
+[
+{"name":"Nice","latitude":"43.70194","longitude":"7.26833","population":"340735","region":"93","departement":"06","arrondissement":"062","commune":"06088"},
+{"name":"Cagnes-sur-Mer","latitude":"43.66361","longitude":"7.14833","population":"48024","region":"93","departement":"06","arrondissement":"061","commune":"06027"},
+{"name":"Saint-Laurent-du-Var","latitude":"43.67333","longitude":"7.19","population":"29897","region":"93","departement":"06","arrondissement":"061","commune":"06123"},
+{"name":"Menton","latitude":"43.77472","longitude":"7.49972","population":"28848","region":"93","departement":"06","arrondissement":"062","commune":"06083"},
+{"name":"Vence","latitude":"43.72255","longitude":"7.11185","population":"19183","region":"93","departement":"06","arrondissement":"061","commune":"06157"},
+{"name":"Villeneuve-Loubet","latitude":"43.65806","longitude":"7.12139","population":"15091","region":"93","departement":"06","arrondissement":"061","commune":"06161"},
+{"name":"Beausoleil","latitude":"43.74194","longitude":"7.42361","population":"14194","region":"93","departement":"06","arrondissement":"062","commune":"06012"},
+{"name":"Roquebrune-Cap-Martin","latitude":"43.75722","longitude":"7.47417","population":"13186","region":"93","departement":"06","arrondissement":"062","commune":"06104"},
+{"name":"Carros","latitude":"43.7925","longitude":"7.18778","population":"11590","region":"93","departement":"06","arrondissement":"061","commune":"06033"},
+{"name":"La Trinité","latitude":"43.74083","longitude":"7.31417","population":"10438","region":"93","departement":"06","arrondissement":"062","commune":"06149"},
+{"name":"Biot","latitude":"43.62861","longitude":"7.09556","population":"9118","region":"93","departement":"06","arrondissement":"061","commune":"06018"},
+{"name":"La Colle-sur-Loup","latitude":"43.68639","longitude":"7.10389","population":"7640","region":"93","departement":"06","arrondissement":"061","commune":"06044"},
+{"name":"Contes","latitude":"43.81194","longitude":"7.31389","population":"6947","region":"93","departement":"06","arrondissement":"062","commune":"06048"},
+{"name":"La Gaude","latitude":"43.72194","longitude":"7.15306","population":"6763","region":"93","departement":"06","arrondissement":"061","commune":"06065"},
+{"name":"Roquefort-les-Pins","latitude":"43.6653","longitude":"7.0514","population":"6422","region":"93","departement":"06","arrondissement":"061","commune":"06105"},
+{"name":"Villefranche-sur-Mer","latitude":"43.70417","longitude":"7.31167","population":"5831","region":"93","departement":"06","arrondissement":"062","commune":"06159"},
+{"name":"Cap-d'Ail","latitude":"43.72111","longitude":"7.40556","population":"5024","region":"93","departement":"06","arrondissement":"062","commune":"06032"}
+]

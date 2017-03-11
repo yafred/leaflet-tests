@@ -1,0 +1,11 @@
+[
+{"name":"Limoges","latitude":"45.8343","longitude":"1.2626","population":"139216","region":"75","departement":"87","arrondissement":"872","commune":"87085"},
+{"name":"Saint-Junien","latitude":"45.88722","longitude":"0.90111","population":"11531","region":"75","departement":"87","arrondissement":"873","commune":"87154"},
+{"name":"Panazol","latitude":"45.83889","longitude":"1.31","population":"10303","region":"75","departement":"87","arrondissement":"872","commune":"87114"},
+{"name":"Couzeix","latitude":"45.87611","longitude":"1.23861","population":"8056","region":"75","departement":"87","arrondissement":"872","commune":"87050"},
+{"name":"Isle","latitude":"45.8046","longitude":"1.2275","population":"7452","region":"75","departement":"87","arrondissement":"872","commune":"87075"},
+{"name":"Le Palais-sur-Vienne","latitude":"45.86417","longitude":"1.32306","population":"5946","region":"75","departement":"87","arrondissement":"872","commune":"87113"},
+{"name":"Feytiat","latitude":"45.80944","longitude":"1.33167","population":"5867","region":"75","departement":"87","arrondissement":"872","commune":"87065"},
+{"name":"Aixe-sur-Vienne","latitude":"45.79639","longitude":"1.13611","population":"5464","region":"75","departement":"87","arrondissement":"872","commune":"87001"},
+{"name":"Ambazac","latitude":"45.95778","longitude":"1.4","population":"5445","region":"75","departement":"87","arrondissement":"872","commune":"87002"}
+]
