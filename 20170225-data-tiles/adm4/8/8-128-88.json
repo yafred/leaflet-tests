@@ -1,0 +1,8 @@
+[
+{"name":"Le Mans","latitude":"48.00417","longitude":"0.19694","population":"142281","region":"52","departement":"72","arrondissement":"723","commune":"72181"},
+{"name":"Dreux","latitude":"48.73639","longitude":"1.36556","population":"30690","region":"24","departement":"28","arrondissement":"283","commune":"28134"},
+{"name":"Alençon","latitude":"48.42972","longitude":"0.09194","population":"27325","region":"28","departement":"61","arrondissement":"611","commune":"61001"},
+{"name":"Châteaudun","latitude":"48.0708","longitude":"1.3382","population":"13857","region":"24","departement":"28","arrondissement":"282","commune":"28088"},
+{"name":"Vernouillet","latitude":"48.72083","longitude":"1.36056","population":"11607","region":"24","departement":"28","arrondissement":"283","commune":"28404"},
+{"name":"Nogent-le-Rotrou","latitude":"48.32167","longitude":"0.82167","population":"11121","region":"24","departement":"28","arrondissement":"284","commune":"28280"}
+]

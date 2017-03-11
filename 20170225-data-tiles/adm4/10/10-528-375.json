@@ -1,0 +1,21 @@
+[
+{"name":"Toulon","latitude":"43.125","longitude":"5.93056","population":"165514","region":"93","departement":"83","arrondissement":"832","commune":"83137"},
+{"name":"La Seyne-sur-Mer","latitude":"43.10306","longitude":"5.87833","population":"61514","region":"93","departement":"83","arrondissement":"832","commune":"83126"},
+{"name":"Six-Fours-les-Plages","latitude":"43.0938","longitude":"5.84","population":"34919","region":"93","departement":"83","arrondissement":"832","commune":"83129"},
+{"name":"Sanary-sur-Mer","latitude":"43.11917","longitude":"5.80222","population":"16806","region":"93","departement":"83","arrondissement":"832","commune":"83123"},
+{"name":"Ollioules","latitude":"43.13944","longitude":"5.84694","population":"12945","region":"93","departement":"83","arrondissement":"832","commune":"83090"},
+{"name":"Saint-Cyr-sur-Mer","latitude":"43.18361","longitude":"5.70861","population":"11865","region":"93","departement":"83","arrondissement":"832","commune":"83112"},
+{"name":"Le Beausset","latitude":"43.19833","longitude":"5.80278","population":"9103","region":"93","departement":"83","arrondissement":"832","commune":"83016"},
+{"name":"Bandol","latitude":"43.13639","longitude":"5.75333","population":"8394","region":"93","departement":"83","arrondissement":"832","commune":"83009"},
+{"name":"Gémenos","latitude":"43.29611","longitude":"5.62694","population":"6037","region":"93","departement":"13","arrondissement":"133","commune":"13042"},
+{"name":"Saint-Mandrier-sur-Mer","latitude":"43.07611","longitude":"5.92778","population":"5773","region":"93","departement":"83","arrondissement":"832","commune":"83153"},
+{"name":"La Cadière-d'Azur","latitude":"43.19583","longitude":"5.75556","population":"5310","region":"93","departement":"83","arrondissement":"832","commune":"83027"},
+{"name":"Cuges-les-Pins","latitude":"43.27639","longitude":"5.70056","population":"4836","region":"93","departement":"13","arrondissement":"133","commune":"13030"},
+{"name":"Le Castellet","latitude":"43.2027","longitude":"5.777","population":"4175","region":"93","departement":"83","arrondissement":"832","commune":"83035"},
+{"name":"Ceyreste","latitude":"43.21361","longitude":"5.62972","population":"4121","region":"93","departement":"13","arrondissement":"133","commune":"13023"},
+{"name":"Le Revest-les-Eaux","latitude":"43.1766","longitude":"5.9273","population":"3694","region":"93","departement":"83","arrondissement":"832","commune":"83103"},
+{"name":"Signes","latitude":"43.29139","longitude":"5.86278","population":"2845","region":"93","departement":"83","arrondissement":"832","commune":"83127"},
+{"name":"Évenos","latitude":"43.17","longitude":"5.83","population":"2145","region":"93","departement":"83","arrondissement":"832","commune":"83053"},
+{"name":"Méounes-lès-Montrieux","latitude":"43.28111","longitude":"5.97","population":"1947","region":"93","departement":"83","arrondissement":"833","commune":"83077"},
+{"name":"Riboux","latitude":"43.30333","longitude":"5.75639","population":"34","region":"93","departement":"83","arrondissement":"832","commune":"83105"}
+]

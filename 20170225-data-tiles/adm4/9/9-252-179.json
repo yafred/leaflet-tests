@@ -1,0 +1,11 @@
+[
+{"name":"Saint-Nazaire","latitude":"47.27944","longitude":"-2.21","population":"66348","region":"52","departement":"44","arrondissement":"443","commune":"44184"},
+{"name":"La Baule-Escoublac","latitude":"47.286","longitude":"-2.3914","population":"16235","region":"52","departement":"44","arrondissement":"443","commune":"44055"},
+{"name":"Guérande","latitude":"47.32806","longitude":"-2.42917","population":"15446","region":"52","departement":"44","arrondissement":"443","commune":"44069"},
+{"name":"Saint-Brevin-les-Pins","latitude":"47.24639","longitude":"-2.16694","population":"12133","region":"52","departement":"44","arrondissement":"443","commune":"44154"},
+{"name":"Pornichet","latitude":"47.26583","longitude":"-2.34","population":"10466","region":"52","departement":"44","arrondissement":"443","commune":"44132"},
+{"name":"Trignac","latitude":"47.31806","longitude":"-2.18917","population":"7192","region":"52","departement":"44","arrondissement":"443","commune":"44210"},
+{"name":"Montoir-de-Bretagne","latitude":"47.32833","longitude":"-2.14917","population":"6664","region":"52","departement":"44","arrondissement":"443","commune":"44103"},
+{"name":"Herbignac","latitude":"47.44889","longitude":"-2.3175","population":"5581","region":"52","departement":"44","arrondissement":"443","commune":"44072"},
+{"name":"Saint-André-des-Eaux","latitude":"47.31389","longitude":"-2.31083","population":"5282","region":"52","departement":"44","arrondissement":"443","commune":"44151"}
+]

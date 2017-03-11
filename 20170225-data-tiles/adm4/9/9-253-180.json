@@ -1,0 +1,11 @@
+[
+{"name":"La Roche-sur-Yon","latitude":"46.66972","longitude":"-1.42778","population":"52234","region":"52","departement":"85","arrondissement":"852","commune":"85191"},
+{"name":"Challans","latitude":"46.84583","longitude":"-1.87917","population":"18680","region":"52","departement":"85","arrondissement":"853","commune":"85047"},
+{"name":"Saint-Hilaire-de-Riez","latitude":"46.72111","longitude":"-1.94556","population":"10504","region":"52","departement":"85","arrondissement":"853","commune":"85226"},
+{"name":"Saint-Jean-de-Monts","latitude":"46.79278","longitude":"-2.06028","population":"8037","region":"52","departement":"85","arrondissement":"853","commune":"85234"},
+{"name":"Aizenay","latitude":"46.74","longitude":"-1.60833","population":"7930","region":"52","departement":"85","arrondissement":"852","commune":"85003"},
+{"name":"Saint-Philbert-de-Grand-Lieu","latitude":"47.035","longitude":"-1.64","population":"7806","region":"52","departement":"44","arrondissement":"442","commune":"44188"},
+{"name":"Le Poiré-sur-Vie","latitude":"46.76861","longitude":"-1.50833","population":"7638","region":"52","departement":"85","arrondissement":"852","commune":"85178"},
+{"name":"Saint-Gilles-Croix-de-Vie","latitude":"46.6975","longitude":"-1.94444","population":"7230","region":"52","departement":"85","arrondissement":"853","commune":"85222"},
+{"name":"Machecoul-Saint-Même","latitude":"46.99306","longitude":"-1.82278","population":"5872","region":"52","departement":"44","arrondissement":"442","commune":"44087"}
+]

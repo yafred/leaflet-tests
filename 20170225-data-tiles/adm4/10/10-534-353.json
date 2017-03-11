@@ -1,0 +1,10 @@
+[
+{"name":"Strasbourg","latitude":"48.58361","longitude":"7.74806","population":"271708","region":"44","departement":"67","arrondissement":"678","commune":"67482"},
+{"name":"Schiltigheim","latitude":"48.60694","longitude":"7.74917","population":"31148","region":"44","departement":"67","arrondissement":"676","commune":"67447"},
+{"name":"Bischheim","latitude":"48.61389","longitude":"7.75194","population":"17777","region":"44","departement":"67","arrondissement":"676","commune":"67043"},
+{"name":"Hœnheim","latitude":"48.62417","longitude":"7.75472","population":"10468","region":"44","departement":"67","arrondissement":"676","commune":"67204"},
+{"name":"Souffelweyersheim","latitude":"48.63546","longitude":"7.74038","population":"7302","region":"44","departement":"67","arrondissement":"676","commune":"67471"},
+{"name":"La Wantzenau","latitude":"48.65806","longitude":"7.82833","population":"5963","region":"44","departement":"67","arrondissement":"676","commune":"67519"},
+{"name":"Reichstett","latitude":"48.64583","longitude":"7.75222","population":"4411","region":"44","departement":"67","arrondissement":"676","commune":"67389"},
+{"name":"Kilstett","latitude":"48.67556","longitude":"7.85611","population":"2363","region":"44","departement":"67","arrondissement":"676","commune":"67237"}
+]

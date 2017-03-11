@@ -1,0 +1,21 @@
+[
+{"name":"Saint-Aignan","latitude":"47.26861","longitude":"1.37583","population":"3199","region":"24","departement":"41","arrondissement":"413","commune":"41198"},
+{"name":"Noyers-sur-Cher","latitude":"47.27667","longitude":"1.39972","population":"2861","region":"24","departement":"41","arrondissement":"413","commune":"41164"},
+{"name":"Genillé","latitude":"47.18556","longitude":"1.09528","population":"1554","region":"24","departement":"37","arrondissement":"373","commune":"37111"},
+{"name":"Écueillé","latitude":"47.08417","longitude":"1.34639","population":"1315","region":"24","departement":"36","arrondissement":"362","commune":"36069"},
+{"name":"Seigy","latitude":"47.2545","longitude":"1.3985","population":"1116","region":"24","departement":"41","arrondissement":"413","commune":"41239"},
+{"name":"Luzillé","latitude":"47.26222","longitude":"1.06028","population":"892","region":"24","departement":"37","arrondissement":"372","commune":"37141"},
+{"name":"Nouans-les-Fontaines","latitude":"47.13611","longitude":"1.29833","population":"788","region":"24","departement":"37","arrondissement":"373","commune":"37173"},
+{"name":"Orbigny","latitude":"47.2104","longitude":"1.2338","population":"756","region":"24","departement":"37","arrondissement":"373","commune":"37177"},
+{"name":"Villeloin-Coulangé","latitude":"47.14056","longitude":"1.22306","population":"652","region":"24","departement":"37","arrondissement":"373","commune":"37277"},
+{"name":"Saint-Hippolyte","latitude":"47.0601","longitude":"1.1006","population":"580","region":"24","departement":"37","arrondissement":"373","commune":"37221"},
+{"name":"Châteauvieux","latitude":"47.2302","longitude":"1.3841","population":"551","region":"24","departement":"41","arrondissement":"413","commune":"41042"},
+{"name":"Loché-sur-Indrois","latitude":"47.09222","longitude":"1.21917","population":"511","region":"24","departement":"37","arrondissement":"373","commune":"37133"},
+{"name":"Céré-la-Ronde","latitude":"47.26056","longitude":"1.19","population":"437","region":"24","departement":"37","arrondissement":"372","commune":"37046"},
+{"name":"Le Liège","latitude":"47.2284","longitude":"1.1042","population":"342","region":"24","departement":"37","arrondissement":"373","commune":"37127"},
+{"name":"Montrésor","latitude":"47.15583","longitude":"1.20083","population":"330","region":"24","departement":"37","arrondissement":"373","commune":"37157"},
+{"name":"Beaumont-Village","latitude":"47.178","longitude":"1.2068","population":"255","region":"24","departement":"37","arrondissement":"373","commune":"37023"},
+{"name":"Sennevières","latitude":"47.10611","longitude":"1.10194","population":"226","region":"24","departement":"37","arrondissement":"373","commune":"37246"},
+{"name":"Chemillé-sur-Indrois","latitude":"47.1609","longitude":"1.1663","population":"221","region":"24","departement":"37","arrondissement":"373","commune":"37069"},
+{"name":"Villedômain","latitude":"47.05278","longitude":"1.25583","population":"125","region":"24","departement":"37","arrondissement":"373","commune":"37275"}
+]

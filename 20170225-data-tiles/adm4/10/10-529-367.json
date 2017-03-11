@@ -1,0 +1,17 @@
+[
+{"name":"Theys","latitude":"45.30028","longitude":"5.99694","population":"1963","region":"84","departement":"38","arrondissement":"381","commune":"38504"},
+{"name":"Allemond","latitude":"45.1305","longitude":"6.038","population":"877","region":"84","departement":"38","arrondissement":"381","commune":"38005"},
+{"name":"Fontcouverte-la-Toussuire","latitude":"45.2466","longitude":"6.3026","population":"569","region":"84","departement":"73","arrondissement":"733","commune":"73116"},
+{"name":"Jarrier","latitude":"45.28028","longitude":"6.31667","population":"467","region":"84","departement":"73","arrondissement":"733","commune":"73138"},
+{"name":"Vaujany","latitude":"45.15778","longitude":"6.07694","population":"365","region":"84","departement":"38","arrondissement":"381","commune":"38527"},
+{"name":"Saint-Sorlin-d'Arves","latitude":"45.22111","longitude":"6.23472","population":"349","region":"84","departement":"73","arrondissement":"733","commune":"73280"},
+{"name":"Saint-Pancrace","latitude":"45.26972","longitude":"6.32556","population":"289","region":"84","departement":"73","arrondissement":"733","commune":"73267"},
+{"name":"Saint-Jean-d'Arves","latitude":"45.20722","longitude":"6.27306","population":"287","region":"84","departement":"73","arrondissement":"733","commune":"73242"},
+{"name":"Villarembert","latitude":"45.24583","longitude":"6.27944","population":"253","region":"84","departement":"73","arrondissement":"733","commune":"73318"},
+{"name":"La Ferrière","latitude":"45.31972","longitude":"6.08722","population":"226","region":"84","departement":"38","arrondissement":"381","commune":"38163"},
+{"name":"Oz","latitude":"45.14083","longitude":"6.05194","population":"219","region":"84","departement":"38","arrondissement":"381","commune":"38289"},
+{"name":"Saint-Colomban-des-Villards","latitude":"45.29417","longitude":"6.22667","population":"187","region":"84","departement":"73","arrondissement":"733","commune":"73230"},
+{"name":"Clavans-en-Haut-Oisans","latitude":"45.11751","longitude":"6.16208","population":"114","region":"84","departement":"38","arrondissement":"381","commune":"38112"},
+{"name":"Saint-Alban-des-Villards","latitude":"45.30917","longitude":"6.24917","population":"89","region":"84","departement":"73","arrondissement":"733","commune":"73221"},
+{"name":"Villard-Reculas","latitude":"45.09222","longitude":"6.03167","population":"61","region":"84","departement":"38","arrondissement":"381","commune":"38550"}
+]

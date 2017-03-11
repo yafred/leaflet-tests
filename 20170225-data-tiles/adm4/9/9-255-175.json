@@ -1,0 +1,11 @@
+[
+{"name":"Caen","latitude":"49.18222","longitude":"-0.37056","population":"109312","region":"28","departement":"14","arrondissement":"142","commune":"14118"},
+{"name":"Hérouville-Saint-Clair","latitude":"49.20361","longitude":"-0.32639","population":"21893","region":"28","departement":"14","arrondissement":"142","commune":"14327"},
+{"name":"Bayeux","latitude":"49.2786","longitude":"-0.703","population":"13348","region":"28","departement":"14","arrondissement":"141","commune":"14047"},
+{"name":"Ifs","latitude":"49.13833","longitude":"-0.35306","population":"10922","region":"28","departement":"14","arrondissement":"142","commune":"14341"},
+{"name":"Mondeville","latitude":"49.17389","longitude":"-0.32111","population":"9600","region":"28","departement":"14","arrondissement":"142","commune":"14437"},
+{"name":"Ouistreham","latitude":"49.27917","longitude":"-0.25833","population":"9352","region":"28","departement":"14","arrondissement":"142","commune":"14488"},
+{"name":"Blainville-sur-Orne","latitude":"49.22889","longitude":"-0.3","population":"5952","region":"28","departement":"14","arrondissement":"142","commune":"14076"},
+{"name":"Dives-sur-Mer","latitude":"49.28556","longitude":"-0.10111","population":"5935","region":"28","departement":"14","arrondissement":"143","commune":"14225"},
+{"name":"Colombelles","latitude":"49.20417","longitude":"-0.29722","population":"5728","region":"28","departement":"14","arrondissement":"142","commune":"14167"}
+]

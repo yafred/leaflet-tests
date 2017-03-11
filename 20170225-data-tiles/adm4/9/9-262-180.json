@@ -1,0 +1,15 @@
+[
+{"name":"Chalon-sur-Saône","latitude":"46.7937","longitude":"4.8482","population":"45504","region":"27","departement":"71","arrondissement":"712","commune":"71076"},
+{"name":"Le Creusot","latitude":"46.80056","longitude":"4.44028","population":"22840","region":"27","departement":"71","arrondissement":"711","commune":"71153"},
+{"name":"Beaune","latitude":"47.02417","longitude":"4.83889","population":"22516","region":"27","departement":"21","arrondissement":"211","commune":"21054"},
+{"name":"Montceau-les-Mines","latitude":"46.66694","longitude":"4.36889","population":"19504","region":"27","departement":"71","arrondissement":"712","commune":"71306"},
+{"name":"Autun","latitude":"46.95111","longitude":"4.29861","population":"14496","region":"27","departement":"71","arrondissement":"711","commune":"71014"},
+{"name":"Saint-Vallier","latitude":"46.64194","longitude":"4.37111","population":"9112","region":"27","departement":"71","arrondissement":"712","commune":"71486"},
+{"name":"Blanzy","latitude":"46.70389","longitude":"4.39028","population":"6678","region":"27","departement":"71","arrondissement":"711","commune":"71040"},
+{"name":"Châtenoy-le-Royal","latitude":"46.7946","longitude":"4.8167","population":"5970","region":"27","departement":"71","arrondissement":"712","commune":"71118"},
+{"name":"Saint-Rémy","latitude":"46.76333","longitude":"4.8375","population":"5921","region":"27","departement":"71","arrondissement":"712","commune":"71475"},
+{"name":"Tournus","latitude":"46.56167","longitude":"4.91222","population":"5884","region":"27","departement":"71","arrondissement":"715","commune":"71543"},
+{"name":"Saint-Marcel","latitude":"46.77556","longitude":"4.88944","population":"5807","region":"27","departement":"71","arrondissement":"712","commune":"71445"},
+{"name":"Chagny","latitude":"46.91056","longitude":"4.75333","population":"5525","region":"27","departement":"71","arrondissement":"712","commune":"71073"},
+{"name":"Montchanin","latitude":"46.74806","longitude":"4.46889","population":"5500","region":"27","departement":"71","arrondissement":"712","commune":"71310"}
+]

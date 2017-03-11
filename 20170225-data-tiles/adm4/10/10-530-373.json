@@ -1,0 +1,22 @@
+[
+{"name":"Seillans","latitude":"43.63611","longitude":"6.64333","population":"2553","region":"93","departement":"83","arrondissement":"831","commune":"83124"},
+{"name":"Callas","latitude":"43.59306","longitude":"6.53833","population":"1813","region":"93","departement":"83","arrondissement":"831","commune":"83028"},
+{"name":"Bargemon","latitude":"43.62","longitude":"6.55028","population":"1480","region":"93","departement":"83","arrondissement":"831","commune":"83011"},
+{"name":"Montferrat","latitude":"43.61167","longitude":"6.48111","population":"1244","region":"93","departement":"83","arrondissement":"831","commune":"83082"},
+{"name":"Ampus","latitude":"43.60667","longitude":"6.38194","population":"898","region":"93","departement":"83","arrondissement":"831","commune":"83003"},
+{"name":"Claviers","latitude":"43.60111","longitude":"6.56389","population":"606","region":"93","departement":"83","arrondissement":"831","commune":"83041"},
+{"name":"Châteaudouble","latitude":"43.5978","longitude":"6.4511","population":"467","region":"93","departement":"83","arrondissement":"831","commune":"83038"},
+{"name":"Comps-sur-Artuby","latitude":"43.71","longitude":"6.50889","population":"328","region":"93","departement":"83","arrondissement":"831","commune":"83044"},
+{"name":"La Palud-sur-Verdon","latitude":"43.7796","longitude":"6.3422","population":"314","region":"93","departement":"04","arrondissement":"043","commune":"04144"},
+{"name":"La Roque-Esclapon","latitude":"43.72306","longitude":"6.63","population":"239","region":"93","departement":"83","arrondissement":"831","commune":"83109"},
+{"name":"Peyroules","latitude":"43.81528","longitude":"6.6425","population":"227","region":"93","departement":"04","arrondissement":"042","commune":"04148"},
+{"name":"La Bastide","latitude":"43.73417","longitude":"6.62472","population":"197","region":"93","departement":"83","arrondissement":"831","commune":"83013"},
+{"name":"La Martre","latitude":"43.77139","longitude":"6.59833","population":"173","region":"93","departement":"83","arrondissement":"831","commune":"83074"},
+{"name":"Trigance","latitude":"43.76111","longitude":"6.44389","population":"161","region":"93","departement":"83","arrondissement":"831","commune":"83142"},
+{"name":"Bargème","latitude":"43.73","longitude":"6.57306","population":"142","region":"93","departement":"83","arrondissement":"831","commune":"83010"},
+{"name":"Rougon","latitude":"43.79833","longitude":"6.40194","population":"104","region":"93","departement":"04","arrondissement":"042","commune":"04171"},
+{"name":"La Garde","latitude":"43.83","longitude":"6.5582","population":"90","region":"93","departement":"04","arrondissement":"042","commune":"04092"},
+{"name":"Châteauvieux","latitude":"43.77694","longitude":"6.57806","population":"73","region":"93","departement":"83","arrondissement":"831","commune":"83040"},
+{"name":"Le Bourguet","latitude":"43.78417","longitude":"6.51861","population":"25","region":"93","departement":"83","arrondissement":"831","commune":"83020"},
+{"name":"Brenon","latitude":"43.76944","longitude":"6.54167","population":"25","region":"93","departement":"83","arrondissement":"831","commune":"83022"}
+]

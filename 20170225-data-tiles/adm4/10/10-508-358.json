@@ -1,0 +1,20 @@
+[
+{"name":"Ancenis","latitude":"47.37278","longitude":"-1.17833","population":"7543","region":"52","departement":"44","arrondissement":"444","commune":"44003"},
+{"name":"Ligné","latitude":"47.41167","longitude":"-1.37722","population":"4376","region":"52","departement":"44","arrondissement":"444","commune":"44082"},
+{"name":"Mésanger","latitude":"47.43306","longitude":"-1.23139","population":"4288","region":"52","departement":"44","arrondissement":"444","commune":"44096"},
+{"name":"Saint-Mars-du-Désert","latitude":"47.36639","longitude":"-1.40583","population":"4011","region":"52","departement":"44","arrondissement":"441","commune":"44179"},
+{"name":"Le Cellier","latitude":"47.31944","longitude":"-1.34639","population":"3618","region":"52","departement":"44","arrondissement":"444","commune":"44028"},
+{"name":"Oudon","latitude":"47.34639","longitude":"-1.28694","population":"3253","region":"52","departement":"44","arrondissement":"444","commune":"44115"},
+{"name":"Mauves-sur-Loire","latitude":"47.29611","longitude":"-1.39333","population":"2999","region":"52","departement":"44","arrondissement":"442","commune":"44094"},
+{"name":"Saint-Géréon","latitude":"47.36917","longitude":"-1.19833","population":"2668","region":"52","departement":"44","arrondissement":"444","commune":"44160"},
+{"name":"Vair-sur-Loire","latitude":"47.40833","longitude":"-1.09583","population":"2363","region":"52","departement":"44","arrondissement":"444","commune":"44163"},
+{"name":"Orée d'Anjou","latitude":"47.33694","longitude":"-1.26667","population":"2342","region":"52","departement":"49","arrondissement":"492","commune":"49069"},
+{"name":"Couffé","latitude":"47.39139","longitude":"-1.29278","population":"2254","region":"52","departement":"44","arrondissement":"444","commune":"44048"},
+{"name":"Mouzeil","latitude":"47.44806","longitude":"-1.34806","population":"1742","region":"52","departement":"44","arrondissement":"444","commune":"44107"},
+{"name":"Teillé","latitude":"47.4615","longitude":"-1.279","population":"1714","region":"52","departement":"44","arrondissement":"444","commune":"44202"},
+{"name":"Pannecé","latitude":"47.48611","longitude":"-1.23944","population":"1311","region":"52","departement":"44","arrondissement":"444","commune":"44118"},
+{"name":"La Roche-Blanche","latitude":"47.44083","longitude":"-1.14056","population":"1074","region":"52","departement":"44","arrondissement":"444","commune":"44222"},
+{"name":"Maumusson","latitude":"47.48278","longitude":"-1.10556","population":"989","region":"52","departement":"44","arrondissement":"444","commune":"44093"},
+{"name":"Trans-sur-Erdre","latitude":"47.47639","longitude":"-1.37361","population":"931","region":"52","departement":"44","arrondissement":"444","commune":"44207"},
+{"name":"Pouillé-les-Côteaux","latitude":"47.45528","longitude":"-1.16222","population":"834","region":"52","departement":"44","arrondissement":"444","commune":"44134"}
+]

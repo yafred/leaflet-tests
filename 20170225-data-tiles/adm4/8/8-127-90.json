@@ -1,0 +1,8 @@
+[
+{"name":"La Rochelle","latitude":"46.15944","longitude":"-1.15139","population":"74707","region":"75","departement":"17","arrondissement":"173","commune":"17300"},
+{"name":"Niort","latitude":"46.325","longitude":"-0.46222","population":"56878","region":"75","departement":"79","arrondissement":"792","commune":"79191"},
+{"name":"Bressuire","latitude":"46.84","longitude":"-0.48861","population":"18634","region":"75","departement":"79","arrondissement":"791","commune":"79049"},
+{"name":"Les Herbiers","latitude":"46.87111","longitude":"-1.01361","population":"15077","region":"52","departement":"85","arrondissement":"852","commune":"85109"},
+{"name":"Fontenay-le-Comte","latitude":"46.46694","longitude":"-0.80639","population":"14334","region":"52","departement":"85","arrondissement":"851","commune":"85092"},
+{"name":"Parthenay","latitude":"46.64861","longitude":"-0.24694","population":"10338","region":"75","departement":"79","arrondissement":"793","commune":"79202"}
+]

@@ -1,0 +1,21 @@
+[
+{"name":"Peyrat-le-Château","latitude":"45.81278","longitude":"1.77278","population":"1013","region":"75","departement":"87","arrondissement":"872","commune":"87117"},
+{"name":"Bugeat","latitude":"45.59806","longitude":"1.92722","population":"899","region":"75","departement":"19","arrondissement":"193","commune":"19033"},
+{"name":"Peyrelevade","latitude":"45.70389","longitude":"2.05444","population":"819","region":"75","departement":"19","arrondissement":"193","commune":"19164"},
+{"name":"Nedde","latitude":"45.71917","longitude":"1.83139","population":"532","region":"75","departement":"87","arrondissement":"872","commune":"87104"},
+{"name":"Gentioux-Pigerolles","latitude":"45.7848","longitude":"1.9943","population":"383","region":"75","departement":"23","arrondissement":"231","commune":"23090"},
+{"name":"Faux-la-Montagne","latitude":"45.75083","longitude":"1.93472","population":"366","region":"75","departement":"23","arrondissement":"231","commune":"23077"},
+{"name":"Tarnac","latitude":"45.68028","longitude":"1.94694","population":"321","region":"75","departement":"19","arrondissement":"193","commune":"19265"},
+{"name":"Pérols-sur-Vézère","latitude":"45.58611","longitude":"1.97972","population":"186","region":"75","departement":"19","arrondissement":"193","commune":"19160"},
+{"name":"Saint-Hilaire-les-Courbes","latitude":"45.6111","longitude":"1.8341","population":"162","region":"75","departement":"19","arrondissement":"192","commune":"19209"},
+{"name":"Beaumont-du-Lac","latitude":"45.7713","longitude":"1.8359","population":"160","region":"75","departement":"87","arrondissement":"872","commune":"87009"},
+{"name":"Rempnat","latitude":"45.6867","longitude":"1.8899","population":"159","region":"75","departement":"87","arrondissement":"872","commune":"87123"},
+{"name":"Lacelle","latitude":"45.64111","longitude":"1.82583","population":"138","region":"75","departement":"19","arrondissement":"192","commune":"19095"},
+{"name":"Saint-Merd-les-Oussines","latitude":"45.6325","longitude":"2.04","population":"123","region":"75","departement":"19","arrondissement":"193","commune":"19226"},
+{"name":"Viam","latitude":"45.60917","longitude":"1.88361","population":"114","region":"75","departement":"19","arrondissement":"193","commune":"19284"},
+{"name":"Millevaches","latitude":"45.64139","longitude":"2.09528","population":"90","region":"75","departement":"19","arrondissement":"193","commune":"19139"},
+{"name":"Chavanac","latitude":"45.62472","longitude":"2.09417","population":"57","region":"75","departement":"19","arrondissement":"193","commune":"19052"},
+{"name":"La Villedieu","latitude":"45.73361","longitude":"1.88667","population":"43","region":"75","departement":"23","arrondissement":"231","commune":"23264"},
+{"name":"L'Église-aux-Bois","latitude":"45.64889","longitude":"1.80222","population":"42","region":"75","departement":"19","arrondissement":"192","commune":"19074"},
+{"name":"Toy-Viam","latitude":"45.64833","longitude":"1.93222","population":"32","region":"75","departement":"19","arrondissement":"193","commune":"19268"}
+]

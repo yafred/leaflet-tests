@@ -1,0 +1,11 @@
+[
+{"name":"Coulommiers","latitude":"48.81556","longitude":"3.08361","population":"14163","region":"11","departement":"77","arrondissement":"771","commune":"77131"},
+{"name":"Provins","latitude":"48.55889","longitude":"3.29944","population":"12349","region":"11","departement":"77","arrondissement":"773","commune":"77379"},
+{"name":"Nangis","latitude":"48.555","longitude":"3.01472","population":"7815","region":"11","departement":"77","arrondissement":"773","commune":"77327"},
+{"name":"Bailly-Romainvilliers","latitude":"48.8466","longitude":"2.8241","population":"6147","region":"11","departement":"77","arrondissement":"775","commune":"77018"},
+{"name":"Nogent-sur-Seine","latitude":"48.4938","longitude":"3.5036","population":"6100","region":"44","departement":"10","arrondissement":"102","commune":"10268"},
+{"name":"Esbly","latitude":"48.90306","longitude":"2.8125","population":"5672","region":"11","departement":"77","arrondissement":"771","commune":"77171"},
+{"name":"Magny-le-Hongre","latitude":"48.86306","longitude":"2.81361","population":"5500","region":"11","departement":"77","arrondissement":"775","commune":"77268"},
+{"name":"Fontenay-Trésigny","latitude":"48.7075","longitude":"2.86944","population":"5069","region":"11","departement":"77","arrondissement":"773","commune":"77192"},
+{"name":"Quincy-Voisins","latitude":"48.89944","longitude":"2.87361","population":"5063","region":"11","departement":"77","arrondissement":"771","commune":"77382"}
+]

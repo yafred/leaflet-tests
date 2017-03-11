@@ -1,0 +1,17 @@
+[
+{"name":"Sierck-les-Bains","latitude":"49.4425","longitude":"6.36028","population":"1720","region":"44","departement":"57","arrondissement":"577","commune":"57650"},
+{"name":"Apach","latitude":"49.45889","longitude":"6.37472","population":"963","region":"44","departement":"57","arrondissement":"577","commune":"57026"},
+{"name":"Waldwisse","latitude":"49.41361","longitude":"6.52972","population":"705","region":"44","departement":"57","arrondissement":"577","commune":"57740"},
+{"name":"Rustroff","latitude":"49.44333","longitude":"6.37222","population":"544","region":"44","departement":"57","arrondissement":"577","commune":"57604"},
+{"name":"Kerling-lès-Sierck","latitude":"49.39806","longitude":"6.34972","population":"519","region":"44","departement":"57","arrondissement":"577","commune":"57361"},
+{"name":"Contz-les-Bains","latitude":"49.45222","longitude":"6.34639","population":"493","region":"44","departement":"57","arrondissement":"577","commune":"57152"},
+{"name":"Kirschnaumen","latitude":"49.3975","longitude":"6.43417","population":"466","region":"44","departement":"57","arrondissement":"577","commune":"57365"},
+{"name":"Montenach","latitude":"49.41944","longitude":"6.38056","population":"442","region":"44","departement":"57","arrondissement":"577","commune":"57479"},
+{"name":"Manderen","latitude":"49.45","longitude":"6.43611","population":"420","region":"44","departement":"57","arrondissement":"577","commune":"57439"},
+{"name":"Rémeling","latitude":"49.40722","longitude":"6.4875","population":"313","region":"44","departement":"57","arrondissement":"577","commune":"57569"},
+{"name":"Kirsch-lès-Sierck","latitude":"49.44306","longitude":"6.4","population":"292","region":"44","departement":"57","arrondissement":"577","commune":"57364"},
+{"name":"Halstroff","latitude":"49.3866","longitude":"6.488","population":"289","region":"44","departement":"57","arrondissement":"577","commune":"57286"},
+{"name":"Launstroff","latitude":"49.43861","longitude":"6.49694","population":"255","region":"44","departement":"57","arrondissement":"577","commune":"57388"},
+{"name":"Merschweiller","latitude":"49.46222","longitude":"6.41861","population":"181","region":"44","departement":"57","arrondissement":"577","commune":"57459"},
+{"name":"Ritzing","latitude":"49.43611","longitude":"6.46111","population":"135","region":"44","departement":"57","arrondissement":"577","commune":"57585"}
+]

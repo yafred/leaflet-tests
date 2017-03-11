@@ -1,0 +1,22 @@
+[
+{"name":"Saint-Nazaire","latitude":"47.27944","longitude":"-2.21","population":"66348","region":"52","departement":"44","arrondissement":"443","commune":"44184"},
+{"name":"La Baule-Escoublac","latitude":"47.286","longitude":"-2.3914","population":"16235","region":"52","departement":"44","arrondissement":"443","commune":"44055"},
+{"name":"Guérande","latitude":"47.32806","longitude":"-2.42917","population":"15446","region":"52","departement":"44","arrondissement":"443","commune":"44069"},
+{"name":"Trignac","latitude":"47.31806","longitude":"-2.18917","population":"7192","region":"52","departement":"44","arrondissement":"443","commune":"44210"},
+{"name":"Montoir-de-Bretagne","latitude":"47.32833","longitude":"-2.14917","population":"6664","region":"52","departement":"44","arrondissement":"443","commune":"44103"},
+{"name":"Herbignac","latitude":"47.44889","longitude":"-2.3175","population":"5581","region":"52","departement":"44","arrondissement":"443","commune":"44072"},
+{"name":"Saint-André-des-Eaux","latitude":"47.31389","longitude":"-2.31083","population":"5282","region":"52","departement":"44","arrondissement":"443","commune":"44151"},
+{"name":"Missillac","latitude":"47.48222","longitude":"-2.15889","population":"4803","region":"52","departement":"44","arrondissement":"443","commune":"44098"},
+{"name":"Saint-Lyphard","latitude":"47.39778","longitude":"-2.30778","population":"4265","region":"52","departement":"44","arrondissement":"443","commune":"44175"},
+{"name":"Saint-Joachim","latitude":"47.38222","longitude":"-2.20083","population":"3997","region":"52","departement":"44","arrondissement":"443","commune":"44168"},
+{"name":"La Chapelle-des-Marais","latitude":"47.44722","longitude":"-2.24167","population":"3671","region":"52","departement":"44","arrondissement":"443","commune":"44030"},
+{"name":"Saint-Malo-de-Guersac","latitude":"47.35083","longitude":"-2.17972","population":"3170","region":"52","departement":"44","arrondissement":"443","commune":"44176"},
+{"name":"Férel","latitude":"47.48222","longitude":"-2.34361","population":"2883","region":"53","departement":"56","arrondissement":"563","commune":"56058"},
+{"name":"Crossac","latitude":"47.41139","longitude":"-2.16833","population":"2679","region":"52","departement":"44","arrondissement":"443","commune":"44050"},
+{"name":"Saint-Molf","latitude":"47.39139","longitude":"-2.425","population":"2250","region":"52","departement":"44","arrondissement":"443","commune":"44183"},
+{"name":"Sainte-Reine-de-Bretagne","latitude":"47.44056","longitude":"-2.19389","population":"2040","region":"52","departement":"44","arrondissement":"443","commune":"44189"},
+{"name":"Assérac","latitude":"47.42917","longitude":"-2.39056","population":"1773","region":"52","departement":"44","arrondissement":"443","commune":"44006"},
+{"name":"Mesquer","latitude":"47.39944","longitude":"-2.46","population":"1710","region":"52","departement":"44","arrondissement":"443","commune":"44097"},
+{"name":"Arzal","latitude":"47.51667","longitude":"-2.37611","population":"1401","region":"53","departement":"56","arrondissement":"563","commune":"56004"},
+{"name":"Camoël","latitude":"47.48194","longitude":"-2.395","population":"881","region":"53","departement":"56","arrondissement":"563","commune":"56030"}
+]

@@ -1,0 +1,16 @@
+[
+{"name":"Arles","latitude":"43.67694","longitude":"4.62861","population":"52979","region":"93","departement":"13","arrondissement":"132","commune":"13004"},
+{"name":"Beaucaire","latitude":"43.80722","longitude":"4.64333","population":"15857","region":"76","departement":"30","arrondissement":"302","commune":"30032"},
+{"name":"Tarascon","latitude":"43.8048","longitude":"4.66001","population":"13152","region":"93","departement":"13","arrondissement":"132","commune":"13108"},
+{"name":"Saint-Martin-de-Crau","latitude":"43.63972","longitude":"4.8125","population":"11003","region":"93","departement":"13","arrondissement":"132","commune":"13097"},
+{"name":"Saint-Rémy-de-Provence","latitude":"43.78944","longitude":"4.83167","population":"10458","region":"93","departement":"13","arrondissement":"132","commune":"13100"},
+{"name":"Fontvieille","latitude":"43.72694","longitude":"4.70889","population":"3594","region":"93","departement":"13","arrondissement":"132","commune":"13038"},
+{"name":"Mouriès","latitude":"43.68917","longitude":"4.87111","population":"3297","region":"93","departement":"13","arrondissement":"132","commune":"13065"},
+{"name":"Fourques","latitude":"43.6932","longitude":"4.6106","population":"2897","region":"76","departement":"30","arrondissement":"302","commune":"30117"},
+{"name":"Maillane","latitude":"43.83278","longitude":"4.78194","population":"2283","region":"93","departement":"13","arrondissement":"132","commune":"13052"},
+{"name":"Saint-Étienne-du-Grès","latitude":"43.78056","longitude":"4.72528","population":"2202","region":"93","departement":"13","arrondissement":"132","commune":"13094"},
+{"name":"Maussane-les-Alpilles","latitude":"43.722","longitude":"4.805","population":"2076","region":"93","departement":"13","arrondissement":"132","commune":"13058"},
+{"name":"Paradou","latitude":"43.72111","longitude":"4.78806","population":"1357","region":"93","departement":"13","arrondissement":"132","commune":"13068"},
+{"name":"Mas-Blanc-des-Alpilles","latitude":"43.78917","longitude":"4.75694","population":"507","region":"93","departement":"13","arrondissement":"132","commune":"13057"},
+{"name":"Les Baux-de-Provence","latitude":"43.74389","longitude":"4.79528","population":"421","region":"93","departement":"13","arrondissement":"132","commune":"13011"}
+]

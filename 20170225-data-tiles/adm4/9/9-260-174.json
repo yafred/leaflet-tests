@@ -1,0 +1,9 @@
+[
+{"name":"Compiègne","latitude":"49.41417","longitude":"2.82222","population":"40860","region":"32","departement":"60","arrondissement":"603","commune":"60159"},
+{"name":"Tergnier","latitude":"49.65583","longitude":"3.28722","population":"14373","region":"32","departement":"02","arrondissement":"022","commune":"02738"},
+{"name":"Noyon","latitude":"49.58111","longitude":"2.99889","population":"13896","region":"32","departement":"60","arrondissement":"603","commune":"60471"},
+{"name":"Chauny","latitude":"49.61556","longitude":"3.21917","population":"11952","region":"32","departement":"02","arrondissement":"022","commune":"02173"},
+{"name":"Margny-lès-Compiègne","latitude":"49.42611","longitude":"2.82083","population":"7825","region":"32","departement":"60","arrondissement":"603","commune":"60382"},
+{"name":"Gauchy","latitude":"49.82444","longitude":"3.26972","population":"5518","region":"32","departement":"02","arrondissement":"023","commune":"02340"},
+{"name":"Ham","latitude":"49.74639","longitude":"3.07278","population":"5085","region":"32","departement":"80","arrondissement":"804","commune":"80410"}
+]
