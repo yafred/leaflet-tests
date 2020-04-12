@@ -53,7 +53,7 @@
 		var widthMeters = map.distance(map.getBounds().getNorthWest(), map.getBounds().getNorthEast());
 		var widthPixels = map.getSize().x;
 		var heightPixels = map.getSize().y;	
-		var radiusPixels = Math.round(500 * widthPixels / widthMeters);
+		var radiusPixels = Math.round(1000 * widthPixels / widthMeters);
 
 		// change style
 		document.getElementById('center').style.height = 2*radiusPixels + 'px';
