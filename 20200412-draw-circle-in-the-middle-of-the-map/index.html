@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>Quick Start - Leaflet</title>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+	<script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+
+	<style>
+	#center {
+		visibility: hidden;
+		top: -215px; 
+		left: 285px;
+		height: 30px;
+		width: 30px;
+		border-radius: 50%;
+		opacity: 0.4;
+		background-color: blue;
+		z-index: 650;
+		position: relative;
+	}
+	</style>
+</head>
+<body>
+
+
+<div style="width: 600px; height: 400px; overflow: hidden">
+<div id="map" style="width: 600px; height: 400px;"></div>
+<div id="center"></div>
+</div>
+<p>Zoom in or out.</p>
+<p>The circle is redrawn to have a 1km diameter.</p>
+<div id="events">
+</div>
+
+<script>
+
+	var map = L.map('map').setView([48.858475, 2.338285], 13);
+
+	L.tileLayer('//a.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		attribution: '&copy; <a href="//www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+	}).addTo(map);
+	L.control.scale().addTo(map);
+
+	// Map event handlers
+	function zoomEnd(e) {
+		var widthMeters = map.distance(map.getBounds().getNorthWest(), map.getBounds().getNorthEast());
+		var widthPixels = map.getSize().x;
+		var heightPixels = map.getSize().y;	
+		var radiusPixels = Math.round(500 * widthPixels / widthMeters);
+
+		// change style
+		document.getElementById('center').style.height = 2*radiusPixels + 'px';
+		document.getElementById('center').style.width = 2*radiusPixels + 'px';
+		document.getElementById('center').style.left = (Math.round(widthPixels/2) - radiusPixels) + 'px';
+		document.getElementById('center').style.top = '-' + (Math.round(heightPixels/2) + radiusPixels) + 'px';
+		document.getElementById('center').style.visibility = "visible";
+
+		// log
+		document.getElementById('events').innerHTML += 'zoom ' + map.getZoom() + '<br/>'; 
+		document.getElementById('events').innerHTML += 'width in meters ' + Math.round(widthMeters) + '<br/>'; 
+		document.getElementById('events').innerHTML += 'width in pixels ' + widthPixels + '<br/>'; 
+		document.getElementById('events').innerHTML += 'radiusPixels ' + radiusPixels + '<br/>'; 
+		document.getElementById('events').innerHTML += 'top ' + (0 - Math.round(heightPixels/2) + radiusPixels) + '<br/>'; 
+	}
+	function zoomStart(e) {
+		document.getElementById('events').innerHTML = '';
+		document.getElementById('center').style.visibility = "hidden"; 
+	}
+	
+	map.on('zoomstart', zoomStart);
+	map.on('zoomend', zoomEnd);
+
+	centerEventDispatcher = function(e) {
+		new_e = new e.constructor(e.type, e);
+		document.getElementById("map").dispatchEvent(new_e);
+	}
+	document.getElementById("center").addEventListener("mousedown", centerEventDispatcher);
+	document.getElementById("center").addEventListener("mouseup", centerEventDispatcher);
+	document.getElementById("center").addEventListener("mousemove", centerEventDispatcher);
+
+	// initial circle
+	zoomEnd();
+</script>
+
+
+	<!-- analytics -->
+    <script>
+if(window.location.hostname != "localhost") {
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-21317761-7', 'auto');
+ga('send', 'pageview');
+}
+    </script>
+</body>
+</html>
